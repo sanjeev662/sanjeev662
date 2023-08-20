@@ -12,7 +12,7 @@
 
 ---
 ### 👦 About Me
-- 🔭 I’m currently working on **my portfolio site**
+- 🔭 I’m currently working on my personal project **To-Let (RoomOnRent)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjeev662](https://github.com/sanjeev662)
 
