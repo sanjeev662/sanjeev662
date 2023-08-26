@@ -170,7 +170,7 @@ and Algorithms</strong>.
 * [Blog-app](https://github.com/sanjeev662/blog_app)
 * [ToDo-list](https://github.com/sanjeev662/ToDoList)
 
-#### Frontend Projects
+#### Frontend Projects :
 
 * [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
 * [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
