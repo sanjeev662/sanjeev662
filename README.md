@@ -14,7 +14,7 @@
 ### 👦 About Me
 - 🔭 I’m currently working on my personal project **To-Let (RoomOnRent)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjeev662](https://github.com/sanjeev662)
+- 👨‍💻 All of my projects are available at my portfolio site [https://portfolio-sanjeev-singh.vercel.app/](https://portfolio-sanjeev-singh.vercel.app/)
 
 - 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
 - 👩‍💻 Constantly learning and I'm very interested in Open Source!
