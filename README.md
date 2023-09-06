@@ -19,7 +19,7 @@
 - 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
 - 👩‍💻 Constantly learning and I'm very interested in Open Source!
 
-- 💫 I'm a highly skilled web developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
+- 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
 
 ---
