@@ -13,12 +13,10 @@
 ---
 ### 👦 About Me
 - 🔭 I’m currently working on my personal project **To-Let (RoomOnRent)**
-
-- 👨‍💻 All of my projects are available at my portfolio site [https://portfolio-sanjeev-singh.vercel.app/](https://portfolio-sanjeev-singh.vercel.app/)
-
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view" target="_blank">Resume</a>
+- 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
 - 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
-- 👩‍💻 Constantly learning and I'm very interested in Open Source!
-
+- 🎯 I'm continuously learning and highly enthusiastic about Open Source!
 - 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
 
