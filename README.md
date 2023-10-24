@@ -22,30 +22,6 @@ and Algorithms</strong>.
 
 ---
 
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
-* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
-* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
-* [Banking-system](https://github.com/sanjeev662/BankingSystem)
-* [Blog-app](https://github.com/sanjeev662/blog_app)
-* [ToDo-list](https://github.com/sanjeev662/ToDoList)
-
-#### Frontend Projects :
-
-* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
-* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
-* [News-app (API used)](https://github.com/sanjeev662/newsapp)
-
-#### UI Projects :
-
-* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
-* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
-* [Indian culture](https://github.com/sanjeev662/IndianCulture)
-
----
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -179,6 +155,30 @@ and Algorithms</strong>.
 <a href="https://codeforces.com/profile/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanjeev662" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjeev662" height="30" width="40" /></a>
 </p>
+
+---
+
+### ⚙️ My Projects 
+
+#### Full-Stack Projects :
+* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
+* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
+* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
+* [Banking-system](https://github.com/sanjeev662/BankingSystem)
+* [Blog-app](https://github.com/sanjeev662/blog_app)
+* [ToDo-list](https://github.com/sanjeev662/ToDoList)
+
+#### Frontend Projects :
+
+* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
+* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
+* [News-app (API used)](https://github.com/sanjeev662/newsapp)
+
+#### UI Projects :
+
+* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
+* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
+* [Indian culture](https://github.com/sanjeev662/IndianCulture)
 
 <!-- <hr> -->
 
