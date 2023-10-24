@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeev Singh</h1>
 
-<h3 align="center">A passionate full stack MERN developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanjeev%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanjeev%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev662" /> </p>
 
@@ -19,6 +19,30 @@
 - 🎯 I'm continuously learning and highly enthusiastic about Open Source!
 - 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
+
+---
+
+### ⚙️ My Projects 
+
+#### Full-Stack Projects :
+* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
+* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
+* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
+* [Banking-system](https://github.com/sanjeev662/BankingSystem)
+* [Blog-app](https://github.com/sanjeev662/blog_app)
+* [ToDo-list](https://github.com/sanjeev662/ToDoList)
+
+#### Frontend Projects :
+
+* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
+* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
+* [News-app (API used)](https://github.com/sanjeev662/newsapp)
+
+#### UI Projects :
+
+* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
+* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
+* [Indian culture](https://github.com/sanjeev662/IndianCulture)
 
 ---
 
@@ -155,30 +179,6 @@ and Algorithms</strong>.
 <a href="https://codeforces.com/profile/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanjeev662" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjeev662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjeev662" height="30" width="40" /></a>
 </p>
-
-<hr>
-
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
-* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
-* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
-* [Banking-system](https://github.com/sanjeev662/BankingSystem)
-* [Blog-app](https://github.com/sanjeev662/blog_app)
-* [ToDo-list](https://github.com/sanjeev662/ToDoList)
-
-#### Frontend Projects :
-
-* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
-* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
-* [News-app (API used)](https://github.com/sanjeev662/newsapp)
-
-#### UI Projects :
-
-* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
-* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
-* [Indian culture](https://github.com/sanjeev662/IndianCulture)
 
 <!-- <hr> -->
 
