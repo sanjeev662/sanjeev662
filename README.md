@@ -172,7 +172,7 @@ and Algorithms</strong>.
 #### Frontend Projects :
 
 * [Visitor-Management-System-reactJs](https://github.com/sanjeev662/visitor-management-system-react)
-* [Visitor-Management-System-nextJs](https://github.com/sanjeev662/visitor-management-system-nextjs)
+* [Visitor-Management-System-nextJs-typeScript](https://github.com/sanjeev662/visitor-management-system-nextjs)
 * [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
 * [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
 * [News-app (API used)](https://github.com/sanjeev662/newsapp)
