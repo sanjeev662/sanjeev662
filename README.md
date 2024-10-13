@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
 - 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
 - 🎯 I'm continuously learning and highly enthusiastic about Open Source!
-- 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
+- 💫 I'm a highly skilled Full Stack Developer with expertise in <strong>React.js, Node.js and Spring Boot</strong>, combined with strong knowledge of <strong>Data Structures
 and Algorithms</strong>.
 
 ---
