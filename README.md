@@ -12,7 +12,7 @@
 
 ---
 ### 👦 About Me
-- 🔭 I’m currently working on my personal project **To-Let (RoomOnRent)**
+- 🔭 I’m currently working as **Software Development Engineer (SDE)**
 - 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view" target="_blank">Resume</a>
 - 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
 - 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
@@ -27,10 +27,6 @@ and Algorithms</strong>.
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
    <img src="https://img.shields.io/badge/java%20programming-%2338B2AC.svg?style=for-the-badge&logo=java&logoColor=white"
       alt="Java"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
