@@ -130,30 +130,39 @@ and Algorithms</strong>.
 </p>
 
 
-### ⚙️ My Projects 
+### ⚙️ Engineering Portfolio
 
-#### Full-Stack Projects :
-* [To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)
-* [Route-Finder-App (Google-map-api)](https://github.com/sanjeev662/Route-Finder-Application)
-* [AmazonClone-app](https://github.com/sanjeev662/Amazon-Clone-App)
-* [Chat-app](https://github.com/sanjeev662/Clone-Chat-App)
-* [Banking-system](https://github.com/sanjeev662/BankingSystem)
-* [Blog-app](https://github.com/sanjeev662/blog_app)
-* [ToDo-list](https://github.com/sanjeev662/ToDoList)
+<h4 align="center">🌐 Full-Stack Systems (Impact & Scale)</h4>
 
-#### Frontend Projects :
+| Project | Tech Stack | Lean Impact & Core Features |
+| :--- | :--- | :--- |
+| **[To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)** | `MERN`, `Socket.io`, `Maps` | **Real-time Marketplace:** Live chat, geospatial search, and property discovery. |
+| **[Route-Finder App](https://github.com/sanjeev662/Route-Finder-Application)** | `React`, `Node`, `Google Maps` | **Algorithmic Pathing:** Generates unique, looping fitness routes with 99% accuracy. |
+| **[Amazon Clone](https://github.com/sanjeev662/Amazon-Clone-App)** | `MERN`, `Redux`, `MUI` | **E-commerce Engine:** Integrated secure auth, cart persistence, and product pipelines. |
+| **[Real-time Chat App](https://github.com/sanjeev662/Clone-Chat-App)** | `MERN`, `Socket.io`, `Chakra` | **Instant Messaging:** Supports 1:1 and group chats with real-time status & notifications. |
+| **[Student Feedback System](https://github.com/sanjeev662/StudentFeedbackManagementSystem)** | `React`, `Node.js`, `MySQL` | **Data Persistence:** Two-way SQL-based management system for academic feedback. |
 
-* [Visitor-Management-System-reactJs](https://github.com/sanjeev662/visitor-management-system-react)
-* [Visitor-Management-System-nextJs-typeScript](https://github.com/sanjeev662/visitor-management-system-nextjs)
-* [PortfolioSanjeevSingh](https://github.com/sanjeev662/PortfolioSanjeevSingh)
-* [Weather-app (API used)](https://github.com/sanjeev662/weather-app)
-* [News-app (API used)](https://github.com/sanjeev662/newsapp)
+---
 
-#### UI Projects :
+<h4 align="center">🤖 AI & Autonomous Agents (Innovation)</h4>
 
-* [Thanku card](https://github.com/sanjeev662/thankugreetingcard)
-* [Shopping-app](https://github.com/sanjeev662/onlineshop.github.io)
-* [Indian culture](https://github.com/sanjeev662/IndianCulture)
+| Project | Tech Stack | Lean Impact & Core Features |
+| :--- | :--- | :--- |
+| **[Job-Scrapper Gemini](https://github.com/sanjeev662/job-scrapper)** | `Node.js`, `Gemini AI`, `Puppeteer` | **Autonomous Agent:** Automated LinkedIn discovery with AI-driven resume matching. |
+| **[ChatGPT Clone](https://github.com/sanjeev662/ChatGPT-Clone)** | `Next.js`, `TS`, `Streaming` | **AI Interface:** Real-time streaming responses with file upload & context history. |
+| **[Car Price Predictor](https://github.com/sanjeev662/CarSellingPricePrediction)** | `Python`, `Scikit-Learn` | **ML Pipeline:** Predictive analytics for vehicle valuation using Linear Regression. |
+
+---
+
+<h4 align="center">⚛️ Frontend Excellence (Ownership)</h4>
+
+| Project | Tech Stack | Lean Impact & Core Features |
+| :--- | :--- | :--- |
+| **[Visitor Management (VMS)](https://github.com/sanjeev662/visitor-management-system-nextjs)** | `Next.js`, `Redux`, `MUI` | **Lead Frontend:** Built Face Capture logic, RBAC dashboards, and state architecture. |
+| **[Professional Portfolio](https://github.com/sanjeev662/PortfolioSanjeevSingh)** | `React`, `Framer`, `Tailwind` | **High-Perf UI:** Architected interactive showcase with optimized Lighthouse scores. |
+| **[Weather & News Hub](https://github.com/sanjeev662/newsapp)** | `React`, `REST APIs`, `BS5` | **API Integration:** Dynamic data visualization using real-time external providers. |
+| **[Multilingual UI](https://github.com/sanjeev662/MultilingualUI_Assignment)** | `React`, `i18next` | **Localization:** Seamless i18n implementation for global user accessibility. |
+
 
 <!-- <hr> -->
 
