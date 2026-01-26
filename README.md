@@ -158,7 +158,7 @@ and Algorithms</strong>.
 
 | Project | Tech Stack | Lean Impact & Core Features |
 | :--- | :--- | :--- |
-| **[Visitor Management (VMS)](https://github.com/sanjeev662/visitor-management-system-nextjs)** | `Next.js`, `Redux`, `MUI` | **Lead Frontend:** Built Face Capture logic, RBAC dashboards, and state architecture. |
+| **[Visitor Management (VMS)](https://github.com/sanjeev662/visitor-management-system-react)** | `React.js`, `Redux`, `Tailwind` | **Lead Frontend:** Built role-based dashboards, visitor tracking, and state architecture. |
 | **[Professional Portfolio](https://github.com/sanjeev662/PortfolioSanjeevSingh)** | `React`, `Framer`, `Tailwind` | **High-Perf UI:** Architected interactive showcase with optimized Lighthouse scores. |
 | **[Weather & News Hub](https://github.com/sanjeev662/newsapp)** | `React`, `REST APIs`, `BS5` | **API Integration:** Dynamic data visualization using real-time external providers. |
 | **[Multilingual UI](https://github.com/sanjeev662/MultilingualUI_Assignment)** | `React`, `i18next` | **Localization:** Seamless i18n implementation for global user accessibility. |
