@@ -40,15 +40,15 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<h6 align="center">LANGUAGES</h6>
 <p align="center">
-  <sub><b>LANGUAGES</b></sub><br/>
   <img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 </p>
 
+<h6 align="center">BACKEND</h6>
 <p align="center">
-  <sub><b>BACKEND</b></sub><br/>
   <img src="https://img.shields.io/badge/Spring_Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-1e293b?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -56,8 +56,8 @@
   <img src="https://img.shields.io/badge/WebSockets_/_SSE-1e293b?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets / SSE"/>
 </p>
 
+<h6 align="center">FRONTEND</h6>
 <p align="center">
-  <sub><b>FRONTEND</b></sub><br/>
   <img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Redux-1e293b?style=for-the-badge&logo=redux&logoColor=A78BFA" alt="Redux"/>
@@ -65,30 +65,30 @@
   <img src="https://img.shields.io/badge/Material_UI-1e293b?style=for-the-badge&logo=mui&logoColor=3399FF" alt="Material UI"/>
 </p>
 
+<h6 align="center">DATABASES</h6>
 <p align="center">
-  <sub><b>DATABASES</b></sub><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/JPA-1e293b?style=for-the-badge&logo=hibernate&logoColor=BCAE79" alt="JPA"/>
 </p>
 
+<h6 align="center">AI &amp; WORKFLOWS</h6>
 <p align="center">
-  <sub><b>AI &amp; WORKFLOWS</b></sub><br/>
   <img src="https://img.shields.io/badge/Temporal-1e293b?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal"/>
   <img src="https://img.shields.io/badge/LLM_+_RAG-1e293b?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM + RAG"/>
   <img src="https://img.shields.io/badge/Telegram_Bots-1e293b?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bots"/>
 </p>
 
+<h6 align="center">SECURITY</h6>
 <p align="center">
-  <sub><b>SECURITY</b></sub><br/>
   <img src="https://img.shields.io/badge/Spring_Security-1e293b?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Keycloak-1e293b?style=for-the-badge&logo=keycloak&logoColor=4D9FDF" alt="Keycloak"/>
   <img src="https://img.shields.io/badge/JWT_/_OAuth_2.0-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT / OAuth 2.0"/>
 </p>
 
+<h6 align="center">CLOUD &amp; DEVOPS</h6>
 <p align="center">
-  <sub><b>CLOUD &amp; DEVOPS</b></sub><br/>
   <img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Azure-1e293b?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjI0IDMwIDIwOCAxOTYiPjxwYXRoIGZpbGw9IiMzQjlCRUUiIGQ9Ik05NC42NyAzNEgxNTMuODZMOTIuNDIgMjE2LjAzQzkxLjc5IDIxNy45IDkwLjU5IDIxOS41MyA4OC45OCAyMjAuNjhDODcuMzggMjIxLjgzIDg1LjQ1IDIyMi40NSA4My40OCAyMjIuNDVIMzcuNDJDMzUuOTMgMjIyLjQ1IDM0LjQ1IDIyMi4xIDMzLjEyIDIyMS40MUMzMS43OSAyMjAuNzMgMzAuNjQgMjE5Ljc0IDI5Ljc3IDIxOC41M0MyOC45IDIxNy4zMSAyOC4zMyAyMTUuOTEgMjguMSAyMTQuNDNDMjcuODggMjEyLjk1IDI4LjAyIDIxMS40NCAyOC40OSAyMTAuMDJMODUuNzMgNDAuNDJDODYuMzYgMzguNTUgODcuNTcgMzYuOTIgODkuMTcgMzUuNzdDOTAuNzcgMzQuNjIgOTIuNyAzNCA5NC42NyAzNFoiLz48cGF0aCBmaWxsPSIjMDA3OEQ0IiBkPSJNMTgwLjY3IDE1Ni4xSDg2LjgzQzg1Ljk1IDE1Ni4wOSA4NS4xIDE1Ni4zNiA4NC4zOCAxNTYuODVDODMuNjYgMTU3LjM0IDgzLjEgMTU4LjAzIDgyLjc4IDE1OC44NUM4Mi40NiAxNTkuNjYgODIuMzkgMTYwLjU1IDgyLjU4IDE2MS40QzgyLjc4IDE2Mi4yNSA4My4yMiAxNjMuMDIgODMuODYgMTYzLjYyTDE0NC4xNyAyMTkuOUMxNDUuOTIgMjIxLjU0IDE0OC4yMyAyMjIuNDUgMTUwLjYzIDIyMi40NUgyMDMuNzdMMTgwLjY3IDE1Ni4xWiIvPjxwYXRoIGZpbGw9IiM1RUM0RjciIGQ9Ik0xNzAuMjYgNDAuNDFDMTY5LjYzIDM4LjU0IDE2OC40MyAzNi45MiAxNjYuODMgMzUuNzdDMTY1LjIzIDM0LjYyIDE2My4zMSAzNCAxNjEuMzQgMzRIOTUuMzhDOTcuMzUgMzQgOTkuMjcgMzQuNjIgMTAwLjg3IDM1Ljc3QzEwMi40OCAzNi45MiAxMDMuNjggMzguNTQgMTA0LjMxIDQwLjQxTDE2MS41NSAyMTAuMDJDMTYyLjAzIDIxMS40MyAxNjIuMTYgMjEyLjk0IDE2MS45NCAyMTQuNDJDMTYxLjcyIDIxNS45IDE2MS4xNSAyMTcuMzEgMTYwLjI4IDIxOC41M0MxNTkuNCAyMTkuNzQgMTU4LjI1IDIyMC43MyAxNTYuOTIgMjIxLjQxQzE1NS41OSAyMjIuMSAxNTQuMTIgMjIyLjQ1IDE1Mi42MiAyMjIuNDVIMjE4LjU4QzIyMC4wOCAyMjIuNDUgMjIxLjU1IDIyMi4xIDIyMi44OCAyMjEuNDFDMjI0LjIxIDIyMC43MyAyMjUuMzYgMjE5Ljc0IDIyNi4yMyAyMTguNTJDMjI3LjExIDIxNy4zMSAyMjcuNjggMjE1LjkgMjI3LjkgMjE0LjQyQzIyOC4xMiAyMTIuOTQgMjI3Ljk4IDIxMS40MyAyMjcuNTEgMjEwLjAyTDE3MC4yNiA0MC40MVoiLz48L3N2Zz4%3D" alt="Azure"/>
@@ -97,8 +97,8 @@
   <img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
 </p>
 
+<h6 align="center">MONITORING</h6>
 <p align="center">
-  <sub><b>MONITORING</b></sub><br/>
   <img src="https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Grafana_Loki-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana Loki"/>
