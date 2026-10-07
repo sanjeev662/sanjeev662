@@ -236,19 +236,6 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 </details>
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanjeev662&show_icons=true&hide_border=true&theme=github_dark"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjeev662&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sanjeev662&hide_border=true&theme=github-dark-blue"/>
-    <img height="165" src="https://streak-stats.demolab.com?user=sanjeev662&hide_border=true" alt="GitHub streak"/>
-  </picture>
-</p>
-
 <h2 align="center">🏆 Achievements</h2>
 
 <table align="center">
