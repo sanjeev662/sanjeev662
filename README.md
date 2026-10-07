@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-sanjeev-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sanjeev662"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanjeev662"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:sanjeevsinghkaushik662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="assets/build-backend.svg" alt="Backend & APIs: fast, reliable APIs and microservices for real-time traffic"/>
-  <img src="assets/build-ai.svg" alt="AI Automation: AI agents and assistants that turn hours of manual work into minutes"/>
+  <img src="assets/build-ai.svg" alt="AI Automation: AI agents and LLM assistants that automate slow, manual workflows"/>
   <img src="assets/build-data.svg" alt="Data at Scale: databases that stay fast with millions of records and daily imports"/>
   <img src="assets/build-frontend.svg" alt="Web Apps & Dashboards: clean, responsive interfaces that work well on desktop and mobile"/>
   <img src="assets/build-security.svg" alt="Login & Security: secure sign-in and role-based access control for every user"/>
@@ -42,69 +42,74 @@
 
 <table align="center">
   <tr>
-    <td><b>Languages</b></td>
+    <td><sub><b>Languages</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"/>
-      <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript"/>
-      <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"/>
+      <img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+      <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><sub><b>Backend</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot"/>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js"/>
-      <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" title="Express"/>
-      <img src="https://skillicons.dev/icons?i=kafka" width="40" alt="Kafka" title="Kafka"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-1e293b?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Kafka-1e293b?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+      <img src="https://img.shields.io/badge/WebSockets%2FSSE-1e293b?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets / SSE"/>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><sub><b>Frontend</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js"/>
-      <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" title="Redux"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-      <img src="https://skillicons.dev/icons?i=materialui" width="40" alt="Material UI" title="Material UI"/>
+      <img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Redux-1e293b?style=for-the-badge&logo=redux&logoColor=A78BFA" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Material_UI-1e293b?style=for-the-badge&logo=mui&logoColor=3399FF" alt="Material UI"/>
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><sub><b>Databases</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/JPA-1e293b?style=for-the-badge&logo=hibernate&logoColor=BCAE79" alt="JPA"/>
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>
+    <td><sub><b>AI &amp; Workflows</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker"/>
-      <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions"/>
-      <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" title="Azure"/>
-      <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/>
-      <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" title="Linux"/>
+      <img src="https://img.shields.io/badge/Temporal-1e293b?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal"/>
+      <img src="https://img.shields.io/badge/LLM_+_RAG-1e293b?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM + RAG"/>
+      <img src="https://img.shields.io/badge/Telegram_Bots-1e293b?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Bots"/>
     </td>
   </tr>
   <tr>
-    <td><b>Monitoring</b></td>
+    <td><sub><b>Security</b></sub></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=prometheus" width="40" alt="Prometheus" title="Prometheus"/>
-      <img src="https://skillicons.dev/icons?i=grafana" width="40" alt="Grafana" title="Grafana"/>
+      <img src="https://img.shields.io/badge/Spring_Security-1e293b?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
+      <img src="https://img.shields.io/badge/Keycloak-1e293b?style=for-the-badge&logo=keycloak&logoColor=4D9FDF" alt="Keycloak"/>
+      <img src="https://img.shields.io/badge/JWT_/_OAuth_2.0-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT / OAuth 2.0"/>
     </td>
   </tr>
   <tr>
-    <td><b>Also</b></td>
+    <td><sub><b>Cloud &amp; DevOps</b></sub></td>
     <td>
-      <img src="https://img.shields.io/badge/Temporal-1e293b?style=flat-square&logo=temporal&logoColor=white" alt="Temporal"/>
-      <img src="https://img.shields.io/badge/Spring_Security-1e293b?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
-      <img src="https://img.shields.io/badge/JPA_/_Hibernate-1e293b?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="JPA / Hibernate"/>
-      <img src="https://img.shields.io/badge/Keycloak-1e293b?style=flat-square&logo=keycloak&logoColor=4D9FDF" alt="Keycloak"/>
-      <br/>
-      <img src="https://img.shields.io/badge/LLM_+_RAG-1e293b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="LLM + RAG"/>
-      <img src="https://img.shields.io/badge/WebSockets_/_SSE-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets / SSE"/>
-      <img src="https://img.shields.io/badge/Telegram_Bots-1e293b?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram Bots"/>
-      <img src="https://img.shields.io/badge/Hetzner_Cloud-1e293b?style=flat-square&logo=hetzner&logoColor=D50C2D" alt="Hetzner Cloud"/>
+      <img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Azure-1e293b?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjI0IDMwIDIwOCAxOTYiPjxwYXRoIGZpbGw9IiMzQjlCRUUiIGQ9Ik05NC42NyAzNEgxNTMuODZMOTIuNDIgMjE2LjAzQzkxLjc5IDIxNy45IDkwLjU5IDIxOS41MyA4OC45OCAyMjAuNjhDODcuMzggMjIxLjgzIDg1LjQ1IDIyMi40NSA4My40OCAyMjIuNDVIMzcuNDJDMzUuOTMgMjIyLjQ1IDM0LjQ1IDIyMi4xIDMzLjEyIDIyMS40MUMzMS43OSAyMjAuNzMgMzAuNjQgMjE5Ljc0IDI5Ljc3IDIxOC41M0MyOC45IDIxNy4zMSAyOC4zMyAyMTUuOTEgMjguMSAyMTQuNDNDMjcuODggMjEyLjk1IDI4LjAyIDIxMS40NCAyOC40OSAyMTAuMDJMODUuNzMgNDAuNDJDODYuMzYgMzguNTUgODcuNTcgMzYuOTIgODkuMTcgMzUuNzdDOTAuNzcgMzQuNjIgOTIuNyAzNCA5NC42NyAzNFoiLz48cGF0aCBmaWxsPSIjMDA3OEQ0IiBkPSJNMTgwLjY3IDE1Ni4xSDg2LjgzQzg1Ljk1IDE1Ni4wOSA4NS4xIDE1Ni4zNiA4NC4zOCAxNTYuODVDODMuNjYgMTU3LjM0IDgzLjEgMTU4LjAzIDgyLjc4IDE1OC44NUM4Mi40NiAxNTkuNjYgODIuMzkgMTYwLjU1IDgyLjU4IDE2MS40QzgyLjc4IDE2Mi4yNSA4My4yMiAxNjMuMDIgODMuODYgMTYzLjYyTDE0NC4xNyAyMTkuOUMxNDUuOTIgMjIxLjU0IDE0OC4yMyAyMjIuNDUgMTUwLjYzIDIyMi40NUgyMDMuNzdMMTgwLjY3IDE1Ni4xWiIvPjxwYXRoIGZpbGw9IiM1RUM0RjciIGQ9Ik0xNzAuMjYgNDAuNDFDMTY5LjYzIDM4LjU0IDE2OC40MyAzNi45MiAxNjYuODMgMzUuNzdDMTY1LjIzIDM0LjYyIDE2My4zMSAzNCAxNjEuMzQgMzRIOTUuMzhDOTcuMzUgMzQgOTkuMjcgMzQuNjIgMTAwLjg3IDM1Ljc3QzEwMi40OCAzNi45MiAxMDMuNjggMzguNTQgMTA0LjMxIDQwLjQxTDE2MS41NSAyMTAuMDJDMTYyLjAzIDIxMS40MyAxNjIuMTYgMjEyLjk0IDE2MS45NCAyMTQuNDJDMTYxLjcyIDIxNS45IDE2MS4xNSAyMTcuMzEgMTYwLjI4IDIxOC41M0MxNTkuNCAyMTkuNzQgMTU4LjI1IDIyMC43MyAxNTYuOTIgMjIxLjQxQzE1NS41OSAyMjIuMSAxNTQuMTIgMjIyLjQ1IDE1Mi42MiAyMjIuNDVIMjE4LjU4QzIyMC4wOCAyMjIuNDUgMjIxLjU1IDIyMi4xIDIyMi44OCAyMjEuNDFDMjI0LjIxIDIyMC43MyAyMjUuMzYgMjE5Ljc0IDIyNi4yMyAyMTguNTJDMjI3LjExIDIxNy4zMSAyMjcuNjggMjE1LjkgMjI3LjkgMjE0LjQyQzIyOC4xMiAyMTIuOTQgMjI3Ljk4IDIxMS40MyAyMjcuNTEgMjEwLjAyTDE3MC4yNiA0MC40MVoiLz48L3N2Zz4%3D" alt="Azure"/>
+      <img src="https://img.shields.io/badge/Hetzner_Cloud-1e293b?style=for-the-badge&logo=hetzner&logoColor=D50C2D" alt="Hetzner Cloud"/>
+      <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>Monitoring</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+      <img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/Grafana_Loki-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana Loki"/>
     </td>
   </tr>
 </table>
@@ -129,7 +134,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <b>💬&nbsp; AI Assistant for Business Data</b><br/>
+      <b>💬&nbsp; AI Assistant for Platform Data</b><br/>
       <sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub><br/>
       <sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub>
     </td>
@@ -137,7 +142,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   <tr>
     <td>
       <b>📈&nbsp; Domain-Intelligence Service</b><br/>
-      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with one-click CSV export of any result set.</sub><br/>
+      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub><br/>
       <sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub>
     </td>
   </tr>
@@ -162,97 +167,22 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
-<p align="center"><sub>Side projects I designed and built end to end. Click a title to see the code.</sub></p>
+<p align="center"><sub>A few projects I've built. Click a card to see the code.</sub></p>
 
-<table>
-  <tr>
-    <td>
-      <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
-      <p><sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-        <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
-        <br/>
-        <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-        <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🎟️ <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
-      <p><sub>Ticket booking for a real event. People register, pay online and instantly get a QR-code PDF ticket, and organisers get an admin panel with Excel export.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Razorpay-1e293b?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
-        <br/>
-        <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scrapper Agent</a></h3>
-      <p><sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square" alt="Playwright"/>
-        <img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-        <br/>
-        <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
-      <p><sub>Front-desk system for offices: register visitors with a photo, print RFID passes and track visits on dashboards, with separate access for admins, receptionists and guards.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Material_UI-1e293b?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI"/>
-        <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-        <br/>
-        <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-        <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
-        <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
-      <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-        <br/>
-        <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-        <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
-      <p><sub>Turns any PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
-        <img src="https://img.shields.io/badge/StPageFlip-1e293b?style=flat-square" alt="StPageFlip"/>
-        <br/>
-        <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-        <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="assets/project-tolet.svg" alt="ToLet: Room on Rent — rental marketplace with map search, bookings and live chat (React, Node.js, MongoDB, Socket.io)"/></a>
+  <a href="https://github.com/sanjeev662/events-booking-system"><img src="assets/project-tickets.svg" alt="Event Ticketing — paid event sign-ups with Razorpay, QR-code PDF tickets and an admin panel (React, Express, MongoDB)"/></a>
+  <a href="https://github.com/sanjeev662/job-scrapper"><img src="assets/project-jobs.svg" alt="Job Scraper Agent — finds LinkedIn jobs, ranks them against my resume with Gemini and emails a shortlist (Node.js, Playwright)"/></a>
+  <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="assets/project-visitors.svg" alt="Visitor Management — frontend for an office front desk with RFID passes and dashboards (React, Material UI), 42 stars"/></a>
+  <a href="https://github.com/sanjeev662/wedding-invitation"><img src="assets/project-wedding.svg" alt="Wedding Invitation — animated digital invite with a live countdown and venue map (Next.js, TypeScript, Framer Motion)"/></a>
+  <a href="https://github.com/sanjeev662/flipbook-app"><img src="assets/project-flipbook.svg" alt="PDF Flipbook — realistic page-turning PDF reader that loads instantly (React, Vite)"/></a>
+</p>
+
+<p align="center">
+  <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live_demo-ToLet-2563eb?style=flat-square&logo=vercel&logoColor=white&labelColor=1e293b" alt="Live demo: ToLet"/></a>
+  <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live_demo-Wedding_Invitation-2563eb?style=flat-square&logo=vercel&logoColor=white&labelColor=1e293b" alt="Live demo: Wedding Invitation"/></a>
+  <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live_demo-PDF_Flipbook-2563eb?style=flat-square&logo=vercel&logoColor=white&labelColor=1e293b" alt="Live demo: PDF Flipbook"/></a>
+</p>
 
 <details>
 <summary><b>More projects</b></summary>
@@ -260,6 +190,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 | Project | Highlights | Links |
 | :-- | :-- | :-- |
+| **Visitor Management (Next.js)** | The same front-desk system rebuilt with Next.js and TypeScript | [Code](https://github.com/sanjeev662/visitor-management-system-nextjs) |
 | **Route Finder** | Suggests walking or running routes for a chosen distance using Google Maps (React + Node.js) | [Live](https://route-finder-application.vercel.app) · [Code](https://github.com/sanjeev662/Route-Finder-Application) |
 | **Portfolio** | My personal site with projects, experience and contact | [Live](https://portfolio-sanjeev-singh.vercel.app/) · [Code](https://github.com/sanjeev662/PortfolioSanjeevSingh) |
 
