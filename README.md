@@ -56,7 +56,7 @@
       <img src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express-1e293b?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/Kafka-1e293b?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-      <img src="https://img.shields.io/badge/WebSockets_/_SSE-1e293b?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets / SSE"/>
+      <img src="https://img.shields.io/badge/WebSockets%2FSSE-1e293b?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets / SSE"/>
     </td>
   </tr>
   <tr>
