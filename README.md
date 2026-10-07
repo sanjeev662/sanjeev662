@@ -117,30 +117,30 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 <table>
   <tr>
     <td>
-      <b>🤖&nbsp; AI SEO Automation Platform</b><br/>
-      <sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub><br/>
-      <sub><code>AI&nbsp;agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram&nbsp;bot</code></sub>
+      <h4>🤖 AI SEO Automation Platform</h4>
+      <p><sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub></p>
+      <p><sub><code>AI&nbsp;agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram&nbsp;bot</code></sub></p>
     </td>
   </tr>
   <tr>
     <td>
-      <b>💬&nbsp; AI Assistant for Platform Data</b><br/>
-      <sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub><br/>
-      <sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub>
+      <h4>💬 AI Assistant for Platform Data</h4>
+      <p><sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub></p>
+      <p><sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub></p>
     </td>
   </tr>
   <tr>
     <td>
-      <b>📈&nbsp; Domain-Intelligence Service</b><br/>
-      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub><br/>
-      <sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub>
+      <h4>📈 Domain-Intelligence Service</h4>
+      <p><sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub></p>
+      <p><sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub></p>
     </td>
   </tr>
   <tr>
     <td>
-      <b>🧑‍💼&nbsp; HR Portal</b><br/>
-      <sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub><br/>
-      <sub><code>Full&nbsp;stack</code> <code>Automation</code> <code>Multi&#8209;city&nbsp;offices</code></sub>
+      <h4>🧑‍💼 HR Portal</h4>
+      <p><sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub></p>
+      <p><sub><code>Full&nbsp;stack</code> <code>Automation</code> <code>Multi&#8209;city&nbsp;offices</code></sub></p>
     </td>
   </tr>
 </table>
@@ -170,7 +170,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
         <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
@@ -185,7 +186,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white" alt="Express"/>
         <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Razorpay-1e293b?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
     </td>
@@ -199,7 +201,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square" alt="Playwright"/>
         <img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
         <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
     </td>
@@ -212,7 +215,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Material_UI-1e293b?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI"/>
         <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
         <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
         <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
@@ -228,7 +232,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
         <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
@@ -242,7 +247,8 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
         <img src="https://img.shields.io/badge/StPageFlip-1e293b?style=flat-square" alt="StPageFlip"/>
-        <br/>
+      </p>
+      <p>
         <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
