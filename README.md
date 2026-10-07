@@ -62,6 +62,7 @@
 <h2 align="center">💼 Experience</h2>
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'Inter, Segoe UI, Helvetica, Arial, sans-serif', 'fontSize': '14px', 'lineColor': '#64748b', 'cScale0': '#0f172a', 'cScaleLabel0': '#ffffff', 'cScale1': '#1e3a8a', 'cScaleLabel1': '#ffffff', 'cScale2': '#1d4ed8', 'cScaleLabel2': '#ffffff', 'cScale3': '#2563eb', 'cScaleLabel3': '#ffffff', 'cScale4': '#3b82f6', 'cScaleLabel4': '#ffffff'}}}%%
 timeline
     2020 : B.Tech IT begins at CSJMU Kanpur
     2022 : ICPC Regionalist · top 10% of 5000+
@@ -101,7 +102,7 @@ timeline
 ### 🚚 Rydeu Logistics · Backend Developer Intern
 <sub>Nov 2023 – Jun 2024 · Remote</sub>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%"><h3>⚡ 40%</h3><sub>faster critical APIs<br/>(2s → 1.2s)</sub></td>
     <td align="center" width="25%"><h3>🔐 SSO</h3><sub>Keycloak authentication<br/>& authorization</sub></td>
@@ -116,7 +117,7 @@ timeline
   <tr>
     <td width="50%" valign="top">
       <h3>🎟️ <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
-      <sub>Paid registrations for a live event: Razorpay checkout with signature verification, QR-coded PDF tickets and admin Excel export.</sub>
+      <p><sub>Paid registrations for a live event: Razorpay checkout with signature verification, QR-coded PDF tickets and admin Excel export.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white" alt="Express"/>
@@ -127,7 +128,7 @@ timeline
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scrapper Agent</a></h3>
-      <sub>Autonomous job discovery: a scheduled Playwright scraper with dedupe and daily caps, Gemini-ranked resume matches and email digests.</sub>
+      <p><sub>Autonomous job discovery: a scheduled Playwright scraper with dedupe and daily caps, Gemini-ranked resume matches and email digests.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square" alt="Playwright"/>
@@ -142,7 +143,7 @@ timeline
   <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/sanjeev662/ChatGPT-Clone">ChatGPT Clone</a></h3>
-      <sub>Streaming AI chat with message editing, context-window management, persistent memory and file/image uploads.</sub>
+      <p><sub>Streaming AI chat with message editing, context-window management, persistent memory and file/image uploads.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
@@ -154,7 +155,7 @@ timeline
     </td>
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
-      <sub>Rental marketplace with real-time owner–tenant chat, map-based discovery, Google OAuth and an owner hosting dashboard.</sub>
+      <p><sub>Rental marketplace with real-time owner–tenant chat, map-based discovery, Google OAuth and an owner hosting dashboard.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
@@ -170,7 +171,7 @@ timeline
   <tr>
     <td width="50%" valign="top">
       <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
-      <sub>Role-based dashboards for admin, reception and guards, with RFID passes, webcam capture, analytics and reports.</sub>
+      <p><sub>Role-based dashboards for admin, reception and guards, with RFID passes, webcam capture, analytics and reports.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Material_UI-1e293b?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI"/>
@@ -182,7 +183,7 @@ timeline
     </td>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
-      <sub>Realistic page-flip reader: pages are pre-rendered at build time for instant load, with deep links for every page, zoom and fullscreen.</sub>
+      <p><sub>Realistic page-flip reader: pages are pre-rendered at build time for instant load, with deep links for every page, zoom and fullscreen.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
@@ -221,7 +222,7 @@ timeline
 
 <h2 align="center">🏆 Achievements</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%"><h3>🥇 ICPC '22</h3><sub>Mathura–Kanpur Regionalist<br/>top 10% of 5000+</sub></td>
     <td align="center" width="33%"><h3>🧩 800+</h3><sub>problems solved in Java<br/>(<a href="https://github.com/sanjeev662/problem-solving">solutions repo</a>)</sub></td>
