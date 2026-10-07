@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=210&section=header&text=Sanjeev%20Kumar%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Development%20Engineer%20%40%20Namekart&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Sanjeev Kumar Singh · Software Development Engineer @ Namekart"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=170&section=header&text=Sanjeev%20Kumar%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Sanjeev Kumar Singh"/>
 </p>
 
+<h3 align="center">Software Development Engineer @ Namekart</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%C2%B7+2%2B+years+in+production;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+React;Building+AI+agents+that+automate+real+work;Fast+APIs+and+data+platforms+at+scale" alt="Full-Stack Engineer · Java · Spring Boot · Node.js · React"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=460&lines=Full-Stack+Engineer+%C2%B7+2%2B+years;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+React;Building+AI+agents+for+real+work;Fast+APIs+%26+data+at+scale" alt="Full-Stack Engineer · Java · Spring Boot · Node.js · React"/>
 </p>
 
 <p align="center">
@@ -17,32 +19,24 @@
   I'm a <b>full-stack engineer</b> who builds fast backends, data-heavy platforms and AI tools that take manual work off people's plates, from the database all the way to the UI.
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="20%"><h3>2+ yrs</h3><sub>building production software</sub></td>
-    <td align="center" width="20%"><h3>30+</h3><sub>platform modules owned end to end</sub></td>
-    <td align="center" width="20%"><h3>280K</h3><sub>records processed every day</sub></td>
-    <td align="center" width="20%"><h3>15–30 ms</h3><sub>search across 4M records</sub></td>
-    <td align="center" width="20%"><h3>−50%</h3><sub>manual analysis, thanks to an AI assistant</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stat-experience.svg" alt="2+ years building production software"/>
+  <img src="assets/stat-modules.svg" alt="30+ platform modules owned end to end"/>
+  <img src="assets/stat-records.svg" alt="280K records processed every day"/>
+  <img src="assets/stat-search.svg" alt="15–30 ms search across 4M records"/>
+  <img src="assets/stat-analysis.svg" alt="50% less manual analysis via AI assistant"/>
+</p>
 
 <h2 align="center">🧠 What I Build</h2>
 
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top"><h3>⚙️</h3><b>Backend & APIs</b><br/><sub>Fast, reliable APIs and microservices that handle real-time traffic</sub></td>
-    <td align="center" width="33%" valign="top"><h3>🤖</h3><b>AI Automation</b><br/><sub>AI agents and chat assistants that turn hours of manual work into minutes</sub></td>
-    <td align="center" width="33%" valign="top"><h3>🗄️</h3><b>Data at Scale</b><br/><sub>Databases that stay fast with millions of records and heavy daily imports</sub></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top"><h3>🎨</h3><b>Web Apps & Dashboards</b><br/><sub>Clean, responsive interfaces that work well on desktop and mobile</sub></td>
-    <td align="center" width="33%" valign="top"><h3>🔐</h3><b>Login & Security</b><br/><sub>Secure sign-in and role-based access, so people see only what they should</sub></td>
-    <td align="center" width="33%" valign="top"><h3>☁️</h3><b>Deploy & Monitor</b><br/><sub>Automated builds and deployments, plus dashboards that catch issues early</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/build-backend.svg" alt="Backend & APIs: fast, reliable APIs and microservices for real-time traffic"/>
+  <img src="assets/build-ai.svg" alt="AI Automation: AI agents and assistants that turn hours of manual work into minutes"/>
+  <img src="assets/build-data.svg" alt="Data at Scale: databases that stay fast with millions of records and daily imports"/>
+  <img src="assets/build-frontend.svg" alt="Web Apps & Dashboards: clean, responsive interfaces that work well on desktop and mobile"/>
+  <img src="assets/build-security.svg" alt="Login & Security: secure sign-in and role-based access control for every user"/>
+  <img src="assets/build-devops.svg" alt="Deploy & Monitor: automated builds and deployments, plus dashboards that catch issues"/>
+</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -65,7 +59,11 @@
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,azure,prometheus,grafana,git,linux" height="40" alt="Docker, GitHub Actions, Azure, Prometheus, Grafana, Git, Linux"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git,linux" height="40" alt="Docker, GitHub Actions, Azure, Git, Linux"/></td>
+  </tr>
+  <tr>
+    <td><b>Monitoring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" alt="Prometheus, Grafana"/></td>
   </tr>
   <tr>
     <td><b>Also</b></td>
@@ -85,15 +83,9 @@
 
 <h2 align="center">💼 Experience</h2>
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'fontFamily': 'Inter, Segoe UI, Helvetica, Arial, sans-serif', 'fontSize': '14px', 'lineColor': '#64748b', 'cScale0': '#0f172a', 'cScaleLabel0': '#ffffff', 'cScale1': '#1e3a8a', 'cScaleLabel1': '#ffffff', 'cScale2': '#1d4ed8', 'cScaleLabel2': '#ffffff', 'cScale3': '#2563eb', 'cScaleLabel3': '#ffffff', 'cScale4': '#3b82f6', 'cScaleLabel4': '#ffffff'}}}%%
-timeline
-    2020 : Started B.Tech in IT at CSJMU Kanpur
-    2022 : Qualified for ICPC Regionals · top 10% of 5000+
-    2023 : Backend Developer Intern at Rydeu Logistics
-    2024 : Graduated B.Tech : Joined Namekart as SDE
-    Today : Building AI agents, data platforms and full-stack products
-```
+<p align="center">
+  <img src="assets/timeline-2020.svg" alt="2020: Started B.Tech IT at CSJMU Kanpur"/><img src="assets/timeline-2022.svg" alt="2022: ICPC Regionals, top 10% of 5000+"/><img src="assets/timeline-2023.svg" alt="2023: Backend Intern at Rydeu Logistics"/><img src="assets/timeline-2024.svg" alt="2024: Graduated, joined Namekart as SDE"/><img src="assets/timeline-today.svg" alt="Today: AI agents and data platforms at scale"/>
+</p>
 
 ### 🏢 Namekart · Software Development Engineer
 <sub>Jul 2024 – Present · Noida</sub><br/>
@@ -131,14 +123,13 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 ### 🚚 Rydeu Logistics · Backend Developer Intern
 <sub>Nov 2023 – Jun 2024 · Remote</sub>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>⚡ 40%</h3><sub>faster key APIs<br/>(2s → 1.2s)</sub></td>
-    <td align="center" width="25%"><h3>🔐 Keycloak</h3><sub>secure sign-in and<br/>access control</sub></td>
-    <td align="center" width="25%"><h3>🤖 −70%</h3><sub>manual work by automating<br/>vendor offers (+35% uptake)</sub></td>
-    <td align="center" width="25%"><h3>📈 +30%</h3><sub>more leads converted after<br/>Freshworks CRM integration</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/rydeu-api.svg" alt="40% faster key APIs (2s to 1.2s)"/>
+  <img src="assets/rydeu-automation.svg" alt="70% less manual effort on vendor offers"/>
+  <img src="assets/rydeu-vendors.svg" alt="35% more vendor participation"/>
+  <img src="assets/rydeu-leads.svg" alt="30% more lead conversions via Freshworks CRM"/>
+  <img src="assets/rydeu-auth.svg" alt="Keycloak: secure sign-in and access control"/>
+</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center"><sub>Side projects I designed and built end to end. Click a title to see the code.</sub></p>
@@ -238,13 +229,11 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 <h2 align="center">🏆 Achievements</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><h3>🥇 ICPC '22</h3><sub>Qualified for Mathura–Kanpur Regionals<br/>top 10% of 5000+ coders</sub></td>
-    <td align="center" width="33%"><h3>🧩 800+</h3><sub>coding problems solved in Java<br/>(<a href="https://github.com/sanjeev662/problem-solving">solutions repo</a>)</sub></td>
-    <td align="center" width="33%"><h3>📜 Certified</h3><sub>Java · HackerRank 100%<br/>Full Stack · Udemy 95%</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/award-icpc.svg" alt="ICPC Regionalist 2022: Mathura–Kanpur Regionals, top 10% of 5000+ coders"/>
+  <a href="https://github.com/sanjeev662/problem-solving"><img src="assets/award-dsa.svg" alt="800+ problems solved in Java on LeetCode, GFG, CodeChef and more"/></a>
+  <img src="assets/award-certs.svg" alt="Certifications: Java (HackerRank 100%), Full Stack (Udemy 95%)"/>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/sanjeev662/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
