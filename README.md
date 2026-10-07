@@ -67,8 +67,8 @@
 
 <p align="center">
   <sub><b>DATABASES</b></sub><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=699ECA" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=5EA3D6" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/JPA-1e293b?style=for-the-badge&logo=hibernate&logoColor=BCAE79" alt="JPA"/>
 </p>
