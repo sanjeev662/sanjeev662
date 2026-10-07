@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="assets/build-backend.svg" alt="Backend & APIs: fast, reliable APIs and microservices for real-time traffic"/>
-  <img src="assets/build-ai.svg" alt="AI Automation: AI agents and assistants that turn hours of manual work into minutes"/>
+  <img src="assets/build-ai.svg" alt="AI Automation: AI agents and LLM assistants that automate slow, manual workflows"/>
   <img src="assets/build-data.svg" alt="Data at Scale: databases that stay fast with millions of records and daily imports"/>
   <img src="assets/build-frontend.svg" alt="Web Apps & Dashboards: clean, responsive interfaces that work well on desktop and mobile"/>
   <img src="assets/build-security.svg" alt="Login & Security: secure sign-in and role-based access control for every user"/>
@@ -98,7 +98,7 @@
     <td>
       <img src="https://img.shields.io/badge/Temporal-1e293b?style=flat-square&logo=temporal&logoColor=white" alt="Temporal"/>
       <img src="https://img.shields.io/badge/Spring_Security-1e293b?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
-      <img src="https://img.shields.io/badge/JPA_/_Hibernate-1e293b?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="JPA / Hibernate"/>
+      <img src="https://img.shields.io/badge/JPA-1e293b?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="JPA"/>
       <img src="https://img.shields.io/badge/Keycloak-1e293b?style=flat-square&logo=keycloak&logoColor=4D9FDF" alt="Keycloak"/>
       <br/>
       <img src="https://img.shields.io/badge/LLM_+_RAG-1e293b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="LLM + RAG"/>
@@ -129,7 +129,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <b>💬&nbsp; AI Assistant for Business Data</b><br/>
+      <b>💬&nbsp; AI Assistant for Platform Data</b><br/>
       <sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub><br/>
       <sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub>
     </td>
@@ -137,7 +137,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   <tr>
     <td>
       <b>📈&nbsp; Domain-Intelligence Service</b><br/>
-      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with one-click CSV export of any result set.</sub><br/>
+      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub><br/>
       <sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub>
     </td>
   </tr>
@@ -162,7 +162,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
-<p align="center"><sub>Side projects I designed and built end to end. Click a title to see the code.</sub></p>
+<p align="center"><sub>A few projects I've built. Click a title to see the code.</sub></p>
 
 <table>
   <tr>
@@ -172,6 +172,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
         <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
         <br/>
@@ -196,7 +197,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scrapper Agent</a></h3>
+      <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scraper Agent</a></h3>
       <p><sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
@@ -211,7 +212,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   <tr>
     <td>
       <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
-      <p><sub>Front-desk system for offices: register visitors with a photo, print RFID passes and track visits on dashboards, with separate access for admins, receptionists and guards.</sub></p>
+      <p><sub>Frontend for an office front-desk system: register visitors with a photo, print RFID passes and track visits on dashboards, with separate views for admins, receptionists and guards.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Material_UI-1e293b?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI"/>
@@ -241,7 +242,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   <tr>
     <td>
       <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
-      <p><sub>Turns any PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub></p>
+      <p><sub>Turns a PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
