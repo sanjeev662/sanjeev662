@@ -166,7 +166,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 <table>
   <tr>
     <td>
-      <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
+      <h3>🏠&nbsp; <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
       <p><sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -184,7 +184,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>🎟️ <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
+      <h3>🎟️&nbsp; <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
       <p><sub>Ticket booking for a real event. People register, pay online and instantly get a QR-code PDF ticket, and organisers get an admin panel with Excel export.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -200,7 +200,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scraper Agent</a></h3>
+      <h3>🤖&nbsp; <a href="https://github.com/sanjeev662/job-scrapper">Job Scraper Agent</a></h3>
       <p><sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
@@ -216,7 +216,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
+      <h3>🛂&nbsp; <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
       <p><sub>Frontend for an office front-desk system: register visitors with a photo, print RFID passes and track visits on dashboards, with separate views for admins, receptionists and guards.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -233,7 +233,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
+      <h3>💌&nbsp; <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
       <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -250,7 +250,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
+      <h3>📖&nbsp; <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
       <p><sub>Turns a PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
