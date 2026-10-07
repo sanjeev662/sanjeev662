@@ -42,7 +42,7 @@
 
 <table align="center">
   <tr>
-    <td><b>Languages</b></td>
+    <td><sub><b>Languages</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
       <img src="https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
@@ -50,7 +50,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><sub><b>Backend</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
       <img src="https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><sub><b>Frontend</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><sub><b>Databases</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>AI &amp; Workflows</b></td>
+    <td><sub><b>AI &amp; Workflows</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Temporal-1e293b?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal"/>
       <img src="https://img.shields.io/badge/LLM_+_RAG-1e293b?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="LLM + RAG"/>
@@ -87,7 +87,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Security</b></td>
+    <td><sub><b>Security</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Security-1e293b?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
       <img src="https://img.shields.io/badge/Keycloak-1e293b?style=for-the-badge&logo=keycloak&logoColor=4D9FDF" alt="Keycloak"/>
@@ -95,7 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
+    <td><sub><b>Cloud &amp; DevOps</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
@@ -106,7 +106,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Monitoring</b></td>
+    <td><sub><b>Monitoring</b></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Prometheus-1e293b?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
       <img src="https://img.shields.io/badge/Grafana-1e293b?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
