@@ -146,6 +146,18 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
+      <p><sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+        <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
+      </p>
+      <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+      <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎟️ <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
       <p><sub>Ticket booking for a real event. People register, pay online and instantly get a QR-code PDF ticket, and organisers get an admin panel with Excel export.</sub></p>
       <p>
@@ -156,6 +168,10 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       </p>
       <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scrapper Agent</a></h3>
       <p><sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub></p>
@@ -167,10 +183,6 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       </p>
       <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/sanjeev662/ChatGPT-Clone">ChatGPT Clone</a></h3>
       <p><sub>A ChatGPT-style app: answers stream in live, you can edit past messages and upload files or images, and every conversation is saved.</sub></p>
@@ -182,18 +194,6 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       </p>
       <a href="https://chat-gpt-clone-three-teal.vercel.app/"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
       <a href="https://github.com/sanjeev662/ChatGPT-Clone"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
-      <p><sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-        <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
-      </p>
-      <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
   </tr>
 </table>
