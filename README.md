@@ -184,22 +184,6 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
-      <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
-      </p>
-      <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
       <p><sub>Front-desk system for offices: register visitors with a photo, print RFID passes and track visits on dashboards, with separate access for admins, receptionists and guards.</sub></p>
       <p>
@@ -210,6 +194,22 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
       <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
+      <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+      </p>
+      <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+      <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
