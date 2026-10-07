@@ -120,6 +120,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <h4>🤖 AI SEO Automation Platform</h4>
       <p><sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub></p>
       <p><sub><code>AI&nbsp;agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram&nbsp;bot</code></sub></p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -127,6 +128,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <h4>💬 AI Assistant for Platform Data</h4>
       <p><sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub></p>
       <p><sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub></p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -134,6 +136,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <h4>📈 Domain-Intelligence Service</h4>
       <p><sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub></p>
       <p><sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub></p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -141,6 +144,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <h4>🧑‍💼 HR Portal</h4>
       <p><sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub></p>
       <p><sub><code>Full&nbsp;stack</code> <code>Automation</code> <code>Multi&#8209;city&nbsp;offices</code></sub></p>
+      <p></p>
     </td>
   </tr>
 </table>
@@ -175,6 +179,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -190,6 +195,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <p>
         <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -205,6 +211,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <p>
         <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -221,6 +228,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
         <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
       </p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -237,6 +245,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
+      <p></p>
     </td>
   </tr>
   <tr>
@@ -252,6 +261,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
         <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
         <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
+      <p></p>
     </td>
   </tr>
 </table>
