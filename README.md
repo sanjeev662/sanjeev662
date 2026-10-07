@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=2563eb&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ I'm a **Software Development Engineer at Namekart** with **2+ years** of buildin
 
 | Project | What it does | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **[Event Ticketing: Neon Holi 2026](https://github.com/sanjeev662/events-booking-system)** | Registration and paid ticketing for a live event. Razorpay order creation and signature verification, QR-coded PDF tickets, password-protected admin panel with Excel export | React 19 · Vite · Tailwind · Node/Express · MongoDB · Razorpay | [Code](https://github.com/sanjeev662/events-booking-system) |
+| **[Event Ticketing](https://github.com/sanjeev662/events-booking-system)** | Registration and paid ticketing for Neon Holi 2026, a live event. Razorpay order creation and signature verification, QR-coded PDF tickets, password-protected admin panel with Excel export | React 19 · Vite · Tailwind · Node/Express · MongoDB · Razorpay | [Code](https://github.com/sanjeev662/events-booking-system) |
 | **[Wedding Invitation](https://github.com/sanjeev662/wedding-invitation)** | Production invite site with swipeable animated ceremony cards, live countdown, embedded maps, background audio with iOS handling, and dynamic OG images for link previews | Next.js · TypeScript · Tailwind · Framer Motion | [Live](https://wedding-invitation-annu-aman.vercel.app) · [Code](https://github.com/sanjeev662/wedding-invitation) |
 | **[PDF Flipbook Viewer](https://github.com/sanjeev662/flipbook-app)** | Realistic page-flip PDF reader. Pages are pre-rendered at build time for instant load, every page has its own `/page/:n` link, plus zoom, print, fullscreen and a responsive single or double-page spread | React · Vite · StPageFlip | [Live](https://flipbook-app-lac.vercel.app) · [Code](https://github.com/sanjeev662/flipbook-app) |
 
