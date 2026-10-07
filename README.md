@@ -159,15 +159,39 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 </table>
 
 ### 🚚 Rydeu Logistics · Backend Developer Intern
-<sub>Nov 2023 – Jun 2024 · Remote</sub>
+<sub>Nov 2023 – Jun 2024 · Bengaluru (Remote)</sub><br/>
+I worked on the platform's backend: faster APIs, secure access, and automation for vendor offers and customer leads.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-api.svg" alt="40% faster key APIs (2s to 1.2s)"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-automation.svg" alt="70% less manual effort on vendor offers"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-vendors.svg" alt="35% more vendor participation"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-leads.svg" alt="30% more lead conversions via Freshworks CRM"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-auth.svg" alt="Keycloak: secure sign-in and access control"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <b>⚡&nbsp; API Performance</b><br/>
+      <sub>Optimized critical APIs, bringing average response time down from 2s to 1.2s. <b>40% faster.</b></sub><br/>
+      <sub><code>Node.js</code> <code>REST&nbsp;APIs</code> <code>Performance</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🔐&nbsp; Keycloak Authentication</b><br/>
+      <sub>Built Keycloak-based authentication and authorization, securing platform access for users and reducing unauthorized access.</sub><br/>
+      <sub><code>Keycloak</code> <code>Authentication</code> <code>Access&nbsp;control</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🤖&nbsp; Automated Vendor Offers</b><br/>
+      <sub>Built an automated vendor-offer feature that replaced manual work. <b>70% less manual effort</b> and <b>35% higher participation.</b></sub><br/>
+      <sub><code>Automation</code> <code>Node.js</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📈&nbsp; Freshworks CRM Integration</b><br/>
+      <sub>Integrated Freshworks CRM for customer interaction and email marketing, making booking management more effective. <b>30% more lead conversions.</b></sub><br/>
+      <sub><code>Freshworks&nbsp;CRM</code> <code>Integrations</code> <code>Email&nbsp;marketing</code></sub>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center"><sub>A few projects I've built. Click a card to see the code.</sub></p>
