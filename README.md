@@ -110,14 +110,14 @@
   <img src="assets/timeline-2020.svg" alt="2020: Started B.Tech IT at CSJMU Kanpur"/><img src="assets/timeline-2022.svg" alt="2022: ICPC Regionals, top 10% of 5000+"/><img src="assets/timeline-2023.svg" alt="2023: Backend Intern at Rydeu Logistics"/><img src="assets/timeline-2024.svg" alt="2024: Graduated, joined Namekart as SDE"/><img src="assets/timeline-today.svg" alt="Today: AI agents and data platforms at scale"/>
 </p>
 
-### 🏢 Namekart · Software Development Engineer
+### 🏢&nbsp; Namekart · Software Development Engineer
 <sub>Jul 2024 – Present · Noida</sub><br/>
 I own the company's domain-name platform end to end: **30+ modules** for finding, acquiring, pricing and selling domains. I write and review production code across the stack.
 
 <table>
   <tr>
     <td>
-      <h4>🤖 AI SEO Automation Platform</h4>
+      <h4>🤖&nbsp; AI SEO Automation Platform</h4>
       <p><sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub></p>
       <p><sub><code>AI&nbsp;agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram&nbsp;bot</code></sub></p>
       <p></p>
@@ -125,7 +125,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h4>💬 AI Assistant for Platform Data</h4>
+      <h4>💬&nbsp; AI Assistant for Platform Data</h4>
       <p><sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub></p>
       <p><sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub></p>
       <p></p>
@@ -133,7 +133,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h4>📈 Domain-Intelligence Service</h4>
+      <h4>📈&nbsp; Domain-Intelligence Service</h4>
       <p><sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub></p>
       <p><sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub></p>
       <p></p>
@@ -141,7 +141,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
   <tr>
     <td>
-      <h4>🧑‍💼 HR Portal</h4>
+      <h4>🧑‍💼&nbsp; HR Portal</h4>
       <p><sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub></p>
       <p><sub><code>Full&nbsp;stack</code> <code>Automation</code> <code>Multi&#8209;city&nbsp;offices</code></sub></p>
       <p></p>
@@ -149,7 +149,7 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   </tr>
 </table>
 
-### 🚚 Rydeu Logistics · Backend Developer Intern
+### 🚚&nbsp; Rydeu Logistics · Backend Developer Intern
 <sub>Nov 2023 – Jun 2024 · Remote</sub>
 
 <p align="center">
