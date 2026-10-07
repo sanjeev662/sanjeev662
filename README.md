@@ -2,20 +2,20 @@
      per-image redirect and lets the CDN cache them. After changing files in assets/,
      commit them first, then point these URLs at that commit's SHA. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/header.svg" width="100%" alt="Sanjeev Kumar Singh"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/header.svg" width="100%" alt="Sanjeev Kumar Singh"/>
 </p>
 
 <h3 align="center">Software Development Engineer @ Namekart</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/typing.svg" alt="Full-Stack Engineer · Java · Spring Boot · Node.js · React"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/typing.svg" alt="Full-Stack Engineer · Java · Spring Boot · Node.js · React"/>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-sanjeev-singh.vercel.app/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/portfolio.svg" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/linkedin.svg" alt="LinkedIn"/></a>
-  <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/resume.svg" alt="Resume"/></a>
-  <a href="mailto:sanjeevsinghkaushik662@gmail.com"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/email.svg" alt="Email"/></a>
+  <a href="https://portfolio-sanjeev-singh.vercel.app/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/portfolio.svg" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/resume.svg" alt="Resume"/></a>
+  <a href="mailto:sanjeevsinghkaushik662@gmail.com"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/email.svg" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -23,22 +23,22 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/stat-experience.svg" alt="2+ years building production software"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/stat-modules.svg" alt="30+ platform modules owned end to end"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/stat-records.svg" alt="280K records processed every day"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/stat-search.svg" alt="15–30 ms search across 4M records"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/stat-analysis.svg" alt="50% less manual analysis via AI assistant"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/stat-experience.svg" alt="2+ years building production software"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/stat-modules.svg" alt="30+ platform modules owned end to end"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/stat-records.svg" alt="280K records processed every day"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/stat-search.svg" alt="15–30 ms search across 4M records"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/stat-analysis.svg" alt="50% less manual analysis via AI assistant"/>
 </p>
 
 <h2 align="center">🧠 What I Build</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-backend.svg" alt="Backend & APIs: fast, reliable APIs and microservices for real-time traffic"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-ai.svg" alt="AI Automation: AI agents and LLM assistants that automate slow, manual workflows"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-data.svg" alt="Data at Scale: databases that stay fast with millions of records and daily imports"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-frontend.svg" alt="Web Apps & Dashboards: clean, responsive interfaces that work well on desktop and mobile"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-security.svg" alt="Login & Security: secure sign-in and role-based access control for every user"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/build-devops.svg" alt="Deploy & Monitor: automated builds and deployments, plus dashboards that catch issues"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-backend.svg" alt="Backend & APIs: fast, reliable APIs and microservices for real-time traffic"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-ai.svg" alt="AI Automation: AI agents and LLM assistants that automate slow, manual workflows"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-data.svg" alt="Data at Scale: databases that stay fast with millions of records and daily imports"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-frontend.svg" alt="Web Apps & Dashboards: clean, responsive interfaces that work well on desktop and mobile"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-security.svg" alt="Login & Security: secure sign-in and role-based access control for every user"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/build-devops.svg" alt="Deploy & Monitor: automated builds and deployments, plus dashboards that catch issues"/>
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -47,72 +47,72 @@
   <tr>
     <td><sub><b>Languages</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/java.svg" alt="Java"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/typescript.svg" alt="TypeScript"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/javascript.svg" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/java.svg" alt="Java"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/typescript.svg" alt="TypeScript"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/javascript.svg" alt="JavaScript"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Backend</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/spring-boot.svg" alt="Spring Boot"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/node-js.svg" alt="Node.js"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/express.svg" alt="Express"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/kafka.svg" alt="Kafka"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/websockets-sse.svg" alt="WebSockets / SSE"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/spring-boot.svg" alt="Spring Boot"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/node-js.svg" alt="Node.js"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/express.svg" alt="Express"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/kafka.svg" alt="Kafka"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/websockets-sse.svg" alt="WebSockets / SSE"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Frontend</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/react.svg" alt="React"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/next-js.svg" alt="Next.js"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/redux.svg" alt="Redux"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/tailwind-css.svg" alt="Tailwind CSS"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/material-ui.svg" alt="Material UI"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/react.svg" alt="React"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/next-js.svg" alt="Next.js"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/redux.svg" alt="Redux"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/tailwind-css.svg" alt="Tailwind CSS"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/material-ui.svg" alt="Material UI"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Databases</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/postgresql.svg" alt="PostgreSQL"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/mysql.svg" alt="MySQL"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/mongodb.svg" alt="MongoDB"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/jpa.svg" alt="JPA"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/postgresql.svg" alt="PostgreSQL"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/mysql.svg" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/mongodb.svg" alt="MongoDB"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/jpa.svg" alt="JPA"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>AI &amp; Workflows</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/temporal.svg" alt="Temporal"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/llm-rag.svg" alt="LLM + RAG"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/telegram-bots.svg" alt="Telegram Bots"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/temporal.svg" alt="Temporal"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/llm-rag.svg" alt="LLM + RAG"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/telegram-bots.svg" alt="Telegram Bots"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Security</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/spring-security.svg" alt="Spring Security"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/keycloak.svg" alt="Keycloak"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/jwt-oauth-2-0.svg" alt="JWT / OAuth 2.0"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/spring-security.svg" alt="Spring Security"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/keycloak.svg" alt="Keycloak"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/jwt-oauth-2-0.svg" alt="JWT / OAuth 2.0"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Cloud &amp; DevOps</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/docker.svg" alt="Docker"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/github-actions.svg" alt="GitHub Actions"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/azure.svg" alt="Azure"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/hetzner-cloud.svg" alt="Hetzner Cloud"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/git.svg" alt="Git"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/docker.svg" alt="Docker"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/github-actions.svg" alt="GitHub Actions"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/azure.svg" alt="Azure"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/hetzner-cloud.svg" alt="Hetzner Cloud"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/git.svg" alt="Git"/>
     </td>
   </tr>
   <tr>
     <td><sub><b>Monitoring</b></sub></td>
     <td>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/prometheus.svg" alt="Prometheus"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/grafana.svg" alt="Grafana"/>
-      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/grafana-loki.svg" alt="Grafana Loki"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/prometheus.svg" alt="Prometheus"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/grafana.svg" alt="Grafana"/>
+      <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/grafana-loki.svg" alt="Grafana Loki"/>
     </td>
   </tr>
 </table>
@@ -120,7 +120,7 @@
 <h2 align="center">💼 Experience</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/timeline-2020.svg" alt="2020: Started B.Tech IT at CSJMU Kanpur"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/timeline-2022.svg" alt="2022: ICPC Regionals, top 10% of 5000+"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/timeline-2023.svg" alt="2023: Backend Intern at Rydeu Logistics"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/timeline-2024.svg" alt="2024: Graduated, joined Namekart as SDE"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/timeline-today.svg" alt="Today: AI agents and data platforms at scale"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/timeline-2020.svg" alt="2020: Started B.Tech IT at CSJMU Kanpur"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/timeline-2022.svg" alt="2022: ICPC Regionals, top 10% of 5000+"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/timeline-2023.svg" alt="2023: Backend Intern at Rydeu Logistics"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/timeline-2024.svg" alt="2024: Graduated, joined Namekart as SDE"/><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/timeline-today.svg" alt="Today: AI agents and data platforms at scale"/>
 </p>
 
 ### 🏢 Namekart · Software Development Engineer
@@ -162,29 +162,29 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 <sub>Nov 2023 – Jun 2024 · Remote</sub>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/rydeu-api.svg" alt="40% faster key APIs (2s to 1.2s)"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/rydeu-automation.svg" alt="70% less manual effort on vendor offers"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/rydeu-vendors.svg" alt="35% more vendor participation"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/rydeu-leads.svg" alt="30% more lead conversions via Freshworks CRM"/>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/rydeu-auth.svg" alt="Keycloak: secure sign-in and access control"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-api.svg" alt="40% faster key APIs (2s to 1.2s)"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-automation.svg" alt="70% less manual effort on vendor offers"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-vendors.svg" alt="35% more vendor participation"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-leads.svg" alt="30% more lead conversions via Freshworks CRM"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/rydeu-auth.svg" alt="Keycloak: secure sign-in and access control"/>
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center"><sub>A few projects I've built. Click a card to see the code.</sub></p>
 
 <p align="center">
-  <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-tolet.svg" alt="ToLet: Room on Rent — rental marketplace with map search, bookings and live chat (React, Node.js, MongoDB, Socket.io)"/></a>
-  <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-tickets.svg" alt="Event Ticketing — paid event sign-ups with Razorpay, QR-code PDF tickets and an admin panel (React, Express, MongoDB)"/></a>
-  <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-jobs.svg" alt="Job Scraper Agent — finds LinkedIn jobs, ranks them against my resume with Gemini and emails a shortlist (Node.js, Playwright)"/></a>
-  <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-visitors.svg" alt="Visitor Management — frontend for an office front desk with RFID passes and dashboards (React, Material UI), 42 stars"/></a>
-  <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-wedding.svg" alt="Wedding Invitation — animated digital invite with a live countdown and venue map (Next.js, TypeScript, Framer Motion)"/></a>
-  <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/project-flipbook.svg" alt="PDF Flipbook — realistic page-turning PDF reader that loads instantly (React, Vite)"/></a>
+  <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-tolet.svg" alt="ToLet: Room on Rent — rental marketplace with map search, bookings and live chat (React, Node.js, MongoDB, Socket.io)"/></a>
+  <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-tickets.svg" alt="Event Ticketing — paid event sign-ups with Razorpay, QR-code PDF tickets and an admin panel (React, Express, MongoDB)"/></a>
+  <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-jobs.svg" alt="Job Scraper Agent — finds LinkedIn jobs, ranks them against my resume with Gemini and emails a shortlist (Node.js, Playwright)"/></a>
+  <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-visitors.svg" alt="Visitor Management — frontend for an office front desk with RFID passes and dashboards (React, Material UI), 42 stars"/></a>
+  <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-wedding.svg" alt="Wedding Invitation — animated digital invite with a live countdown and venue map (Next.js, TypeScript, Framer Motion)"/></a>
+  <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/project-flipbook.svg" alt="PDF Flipbook — realistic page-turning PDF reader that loads instantly (React, Vite)"/></a>
 </p>
 
 <p align="center">
-  <a href="https://to-let-room-on-rent.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/live-tolet.svg" alt="Live demo: ToLet"/></a>
-  <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/live-wedding-invitation.svg" alt="Live demo: Wedding Invitation"/></a>
-  <a href="https://flipbook-app-lac.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/live-pdf-flipbook.svg" alt="Live demo: PDF Flipbook"/></a>
+  <a href="https://to-let-room-on-rent.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/live-tolet.svg" alt="Live demo: ToLet"/></a>
+  <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/live-wedding-invitation.svg" alt="Live demo: Wedding Invitation"/></a>
+  <a href="https://flipbook-app-lac.vercel.app"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/live-pdf-flipbook.svg" alt="Live demo: PDF Flipbook"/></a>
 </p>
 
 <details>
@@ -202,16 +202,16 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/award-icpc.svg" alt="ICPC Regionalist 2022: Mathura–Kanpur Regionals, top 10% of 5000+ coders"/>
-  <a href="https://github.com/sanjeev662/problem-solving"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/award-dsa.svg" alt="800+ problems solved in Java on LeetCode, GFG, CodeChef and more"/></a>
-  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/award-certs.svg" alt="Certifications: Java (HackerRank 100%), Full Stack (Udemy 95%)"/>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/award-icpc.svg" alt="ICPC Regionalist 2022: Mathura–Kanpur Regionals, top 10% of 5000+ coders"/>
+  <a href="https://github.com/sanjeev662/problem-solving"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/award-dsa.svg" alt="800+ problems solved in Java on LeetCode, GFG, CodeChef and more"/></a>
+  <img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/award-certs.svg" alt="Certifications: Java (HackerRank 100%), Full Stack (Udemy 95%)"/>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/sanjeev662/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/leetcode.svg" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/user/sanjeev662/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/geeksforgeeks.svg" alt="GeeksforGeeks"/></a>
-  <a href="https://www.codechef.com/users/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/codechef.svg" alt="CodeChef"/></a>
-  <a href="https://www.hackerrank.com/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/badges/hackerrank.svg" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/sanjeev662/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/leetcode.svg" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/sanjeev662/"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/geeksforgeeks.svg" alt="GeeksforGeeks"/></a>
+  <a href="https://www.codechef.com/users/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/codechef.svg" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/sanjeev662"><img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/badges/hackerrank.svg" alt="HackerRank"/></a>
 </p>
 
 <br/>
@@ -221,4 +221,4 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
   <sub>Open to conversations about backend systems, distributed workflows and AI-powered products.</sub>
 </p>
 
-<img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/ddfd14ac964c42aab91d01c5a3f89739b1fd439a/assets/footer.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/sanjeev662/sanjeev662/0a47bca6493474cb2bafda4fc930db6a2eb819ad/assets/footer.svg" width="100%" alt=""/>
