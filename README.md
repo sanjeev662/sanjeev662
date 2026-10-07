@@ -184,16 +184,16 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
       <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/sanjeev662/ChatGPT-Clone">ChatGPT Clone</a></h3>
-      <p><sub>A ChatGPT-style app: answers stream in live, you can edit past messages and upload files or images, and every conversation is saved.</sub></p>
+      <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
+      <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Vercel_AI_SDK-1e293b?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
       </p>
-      <a href="https://chat-gpt-clone-three-teal.vercel.app/"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/ChatGPT-Clone"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+      <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+      <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
   </tr>
 </table>
@@ -231,7 +231,6 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 | Project | Highlights | Links |
 | :-- | :-- | :-- |
-| **Wedding Invitation** | Animated digital wedding invite with a live countdown, venue map and music (Next.js + TypeScript) | [Live](https://wedding-invitation-annu-aman.vercel.app) · [Code](https://github.com/sanjeev662/wedding-invitation) |
 | **Route Finder** | Suggests walking or running routes for a chosen distance using Google Maps (React + Node.js) | [Live](https://route-finder-application.vercel.app) · [Code](https://github.com/sanjeev662/Route-Finder-Application) |
 | **Portfolio** | My personal site with projects, experience and contact | [Live](https://portfolio-sanjeev-singh.vercel.app/) · [Code](https://github.com/sanjeev662/PortfolioSanjeevSingh) |
 
