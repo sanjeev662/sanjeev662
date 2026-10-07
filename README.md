@@ -1,175 +1,155 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"></a>
-
-<h1 align="center">Hi 👋, I'm Sanjeev Singh</h1>
-
-<h3 align="center">A passionate full stack developer</h3>
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanjeev%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev662" /> </p>
-
----
-### 👦 About Me
-- 🔭 I’m currently working as **Software Development Engineer (SDE)**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view" target="_blank">Resume</a>
-- 👨‍💻 All of my projects are available at my portfolio site : [Portfolio](https://portfolio-sanjeev-singh.vercel.app/)
-- 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
-- 🎯 I'm continuously learning and highly enthusiastic about Open Source!
-- 💫 I'm a Full Stack Developer with expertise in <strong>React.js, Node.js and Spring Boot</strong>, combined with strong knowledge of <strong>Data Structures
-and Algorithms</strong>.
-
----
-### 🛠 Technical Stack & Tools
-
-<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Sanjeev%20Kumar%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Development%20Engineer%20%40%20Namekart&descSize=18&descAlignY=58&animation=fadeIn" alt="Sanjeev Kumar Singh — Software Development Engineer @ Namekart" width="100%"/>
 </p>
 
-<h3 align="center">Frontend Development</h3>
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%C2%B7+2%2B+years+shipping+to+production;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+React;Microservices+%C2%B7+Temporal+workflows+%C2%B7+LLM+%2B+RAG;PostgreSQL+at+scale+%C2%B7+280K+rows%2Fday+%C2%B7+15%E2%80%9330+ms+search" alt="Full Stack Engineer · Java · Spring Boot · Node.js · TypeScript · React"/>
 </p>
 
-<h3 align="center">Backend & Databases</h3>
 <p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
+  <a href="https://portfolio-sanjeev-singh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sanjeev662"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1owTJHwvsvIn8PpVRFsKLpSqQIarMIKe9/view"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:sanjeevsinghkaushik662@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="center">Cloud & DevOps</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=2563eb&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-<h3 align="center">Coding Profiles</h3>
+## 👋 About Me
+
+I'm a **Software Development Engineer at Namekart** with **2+ years** of building and running production systems. I work across the stack, from Spring Boot and Node.js services and PostgreSQL data pipelines to React/Next.js frontends, and I add LLM features where they make the product better.
+
+- 🏢 Own the company's **domain-name platform end to end**: 30+ modules covering discovery, acquisition, pricing and sales
+- ⚙️ Day to day: **Java · Spring Boot · Node.js · TypeScript · React / Next.js · PostgreSQL · Docker**
+- 🤖 Lately: **multi-agent microservices on Temporal** and **LLM assistants with RAG + role-based access**
+- 🧠 **ICPC Regionalist '22** (top 10% of 5000+) · **800+** DSA problems solved in Java
+- 📫 Reach me at **sanjeevsinghkaushik662@gmail.com**
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>Software Development Engineer · Namekart</b> &nbsp;—&nbsp; <i>Jul 2024 – Present · Noida, India</i></summary>
+<br/>
+
+- **Platform ownership:** end-to-end technical owner of the domain-name platform across **30+ modules** (discovery, acquisition, pricing, sales). I write and review production changes.
+- **AI-powered SEO automation platform:** automates the full consulting workflow (site audits, keyword research, content briefs, rank tracking, client reporting). Independent **multi-agent microservices** are orchestrated with **Temporal** for durable workflows and automatic retries, and scheduled workflows deliver reports to clients through a **Telegram bot**.
+- **LLM-powered AI assistant:** retrieval-augmented context plus role-based access control. Teams ask questions about platform data in plain English and get real-time reports and insights, **cutting manual analysis effort by 50%**.
+- **Domain-intelligence microservice (Spring Boot):** ingests **280K rows/day** into a partitioned **4M-row PostgreSQL** store. Composite indexing and cursor-based pagination give **15–30 ms** filtered search and streaming CSV export.
+- **HR portal:** attendance, leave management, work logs, automated stipend calculation and location-based office punch-ins across multiple cities, **reducing manual HR processing by 70%**.
+
+<sub><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JPA</code> <code>Node.js</code> <code>Express</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Temporal</code> <code>Docker</code> <code>Hetzner Cloud</code></sub>
+
+</details>
+
+<details>
+<summary><b>Backend Developer Intern · Rydeu Logistics</b> &nbsp;—&nbsp; <i>Nov 2023 – Jun 2024 · Bengaluru (Remote)</i></summary>
+<br/>
+
+- **API performance:** cut average response time of critical APIs from **2s to 1.2s (40% faster)**.
+- **Auth:** built **Keycloak**-based authentication and authorization to secure platform access.
+- **Automated vendor offers:** **70% less manual effort** and **35% higher vendor participation**.
+- **Freshworks CRM integration:** for customer engagement and email marketing, leading to a **30% increase in lead conversions**.
+
+<sub><code>Node.js</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Redux</code> <code>Material UI</code> <code>PostgreSQL</code> <code>Keycloak</code> <code>GitLab</code></sub>
+
+</details>
+
+---
+
+## 🧰 Tech Stack
+
+| | |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,ts,js&perline=8" height="40" alt="Java, TypeScript, JavaScript"/> &nbsp; + SQL |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka&perline=8" height="40" alt="Spring Boot, Node.js, Express, Kafka"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui&perline=8" height="40" alt="React, Next.js, Redux, Tailwind CSS, Material UI"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" height="40" alt="PostgreSQL, MySQL, MongoDB"/> |
+| **DevOps & Observability** | <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,prometheus,grafana,git,linux&perline=8" height="40" alt="Docker, GitHub Actions, Azure, Prometheus, Grafana, Git, Linux"/> |
+
+<p><b>Also:</b> Temporal · Spring Security · JPA · Keycloak · WebSockets · SSE · Microservices · Hetzner Cloud · Loki · LLM integration & RAG · System design (OOP, SOLID, design patterns)</p>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🌐 Shipped to Production</b></summary>
+<br/>
+
+| Project | What it does | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **[Event Ticketing: Neon Holi 2026](https://github.com/sanjeev662/events-booking-system)** | Registration and paid ticketing for a live event. Razorpay order creation and signature verification, QR-coded PDF tickets, password-protected admin panel with Excel export | React 19 · Vite · Tailwind · Node/Express · MongoDB · Razorpay | [Code](https://github.com/sanjeev662/events-booking-system) |
+| **[Wedding Invitation](https://github.com/sanjeev662/wedding-invitation)** | Production invite site with swipeable animated ceremony cards, live countdown, embedded maps, background audio with iOS handling, and dynamic OG images for link previews | Next.js · TypeScript · Tailwind · Framer Motion | [Live](https://wedding-invitation-annu-aman.vercel.app) · [Code](https://github.com/sanjeev662/wedding-invitation) |
+| **[PDF Flipbook Viewer](https://github.com/sanjeev662/flipbook-app)** | Realistic page-flip PDF reader. Pages are pre-rendered at build time for instant load, every page has its own `/page/:n` link, plus zoom, print, fullscreen and a responsive single or double-page spread | React · Vite · StPageFlip | [Live](https://flipbook-app-lac.vercel.app) · [Code](https://github.com/sanjeev662/flipbook-app) |
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & Automation</b></summary>
+<br/>
+
+| Project | What it does | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **[Job Scrapper](https://github.com/sanjeev662/job-scrapper)** | Autonomous job-discovery service. A Playwright scraper runs on a randomized schedule with daily caps and stops on CAPTCHA, unique Mongo indexes remove duplicates, Gemini shortlists jobs against my resume, and results arrive as Gmail digests. A [GitHub Actions cron](https://github.com/sanjeev662/cron-job) keeps it warm on Render | Node.js · Playwright · MongoDB · Gemini · GitHub Actions | [Code](https://github.com/sanjeev662/job-scrapper) |
+| **[ChatGPT Clone](https://github.com/sanjeev662/ChatGPT-Clone)** | Streaming chat with message editing and regeneration, context-window truncation, MongoDB conversation memory and Cloudinary file/image uploads | Next.js 14 · TypeScript · Vercel AI SDK · MongoDB | [Live](https://chat-gpt-clone-three-teal.vercel.app/) · [Code](https://github.com/sanjeev662/ChatGPT-Clone) |
+
+</details>
+
+<details open>
+<summary><b>🧩 Full-Stack Platforms</b></summary>
+<br/>
+
+| Project | What it does | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **[ToLet: Room on Rent](https://github.com/sanjeev662/ToLet-RoomOnRent)** | Rental marketplace for searching, booking and saving listings, with an owner hosting dashboard, Socket.io 1:1 and group chat, Google Maps pinning, JWT + Google OAuth and OTP email | MERN · Socket.io · Google Maps · Cloudinary | [Live](https://to-let-room-on-rent.vercel.app) · [Code](https://github.com/sanjeev662/ToLet-RoomOnRent) |
+| **[Visitor Management System](https://github.com/sanjeev662/visitor-management-system-react)** <br/> <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=social" alt="GitHub stars"/> | Role-based dashboards for admin, receptionist and guard. Covers visitor and pass management with RFID assignment, webcam capture, step-form registration, analytics and reports. There's also a [Next.js + TypeScript version](https://github.com/sanjeev662/visitor-management-system-nextjs) | React · Material UI · Tailwind | [Code](https://github.com/sanjeev662/visitor-management-system-react) |
+| **[Route Finder](https://github.com/sanjeev662/Route-Finder-Application)** | Builds walking or running routes for a target distance using the Google Places, Geocoding and Directions APIs. Has JWT auth and caches routes in MongoDB | React · Express · MongoDB · Google Maps APIs | [Live](https://route-finder-application.vercel.app) · [Code](https://github.com/sanjeev662/Route-Finder-Application) |
+
+</details>
+
+<p align="center"><sub>More on my <a href="https://portfolio-sanjeev-singh.vercel.app/">portfolio</a> · <a href="https://github.com/sanjeev662?tab=repositories">all repositories</a></sub></p>
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <a href="https://leetcode.com/sanjeev662/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sanjeev662" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-  </a>
-  <a href="https://www.codechef.com/users/sanjeev662" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/sanjeev662" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanjeev662&show_icons=true&hide_border=true&theme=github_dark"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeev662&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sanjeev662&hide_border=true&theme=github-dark-blue"/>
+    <img height="170" src="https://streak-stats.demolab.com?user=sanjeev662&hide_border=true" alt="GitHub streak"/>
+  </picture>
 </p>
 
 ---
 
-<h3 align="center">Connect with me</h3>
+## 🏆 Problem Solving & Achievements
+
+- 🥇 **ICPC Mathura–Kanpur Regionals 2022 qualifier**: ranked in the **top 10%** of 5000+ participants
+- 🧩 **800+ algorithmic problems** solved in Java across LeetCode, GeeksforGeeks, CodeChef and more. LeetCode solutions sync automatically to **[problem-solving](https://github.com/sanjeev662/problem-solving)**
+- 📜 **Certifications:** Full Stack Web Development (Udemy, 95%) · Java (HackerRank, 100%)
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev662" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sanjeevsinghkaushik662@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/sanjeev662" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://leetcode.com/sanjeev662/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/sanjeev662/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.codechef.com/users/sanjeev662"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/sanjeev662"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-
-### ⚙️ Engineering Portfolio
-
-<h4 align="center">🌐 Full-Stack Systems (Impact & Scale)</h4>
-
-| Project | Tech Stack | Lean Impact & Core Features |
-| :--- | :--- | :--- |
-| **[To-Let (RoomOnRent)](https://github.com/sanjeev662/ToLet-RoomOnRent)** | `MERN`, `Socket.io`, `Maps` | **Real-time Marketplace:** Live chat, geospatial search, and property discovery. |
-| **[Route-Finder App](https://github.com/sanjeev662/Route-Finder-Application)** | `React`, `Node`, `Google Maps` | **Algorithmic Pathing:** Generates unique, looping fitness routes with 99% accuracy. |
-| **[Amazon Clone](https://github.com/sanjeev662/Amazon-Clone-App)** | `MERN`, `Redux`, `MUI` | **E-commerce Engine:** Integrated secure auth, cart persistence, and product pipelines. |
-| **[Real-time Chat App](https://github.com/sanjeev662/Clone-Chat-App)** | `MERN`, `Socket.io`, `Chakra` | **Instant Messaging:** Supports 1:1 and group chats with real-time status & notifications. |
-| **[Student Feedback System](https://github.com/sanjeev662/StudentFeedbackManagementSystem)** | `React`, `Node.js`, `MySQL` | **Data Persistence:** Two-way SQL-based management system for academic feedback. |
-
 ---
 
-<h4 align="center">🤖 AI & Autonomous Agents (Innovation)</h4>
+<p align="center">
+  <b>Open to conversations about backend systems, distributed workflows and AI-powered products.</b><br/>
+  <a href="https://www.linkedin.com/in/sanjeev662">LinkedIn</a> · <a href="mailto:sanjeevsinghkaushik662@gmail.com">Email</a> · <a href="https://portfolio-sanjeev-singh.vercel.app/">Portfolio</a>
+</p>
 
-| Project | Tech Stack | Lean Impact & Core Features |
-| :--- | :--- | :--- |
-| **[Job-Scrapper Gemini](https://github.com/sanjeev662/job-scrapper)** | `Node.js`, `Gemini AI`, `Puppeteer` | **Autonomous Agent:** Automated LinkedIn discovery with AI-driven resume matching. |
-| **[ChatGPT Clone](https://github.com/sanjeev662/ChatGPT-Clone)** | `Next.js`, `TS`, `Streaming` | **AI Interface:** Real-time streaming responses with file upload & context history. |
-| **[Car Price Predictor](https://github.com/sanjeev662/CarSellingPricePrediction)** | `Python`, `Scikit-Learn` | **ML Pipeline:** Predictive analytics for vehicle valuation using Linear Regression. |
-
----
-
-<h4 align="center">⚛️ Frontend Excellence (Ownership)</h4>
-
-| Project | Tech Stack | Lean Impact & Core Features |
-| :--- | :--- | :--- |
-| **[Visitor Management (VMS)](https://github.com/sanjeev662/visitor-management-system-react)** | `React.js`, `Redux`, `Tailwind` | **Lead Frontend:** Built role-based dashboards, visitor tracking, and state architecture. |
-| **[Professional Portfolio](https://github.com/sanjeev662/PortfolioSanjeevSingh)** | `React`, `Framer`, `Tailwind` | **High-Perf UI:** Architected interactive showcase with optimized Lighthouse scores. |
-| **[Weather & News Hub](https://github.com/sanjeev662/newsapp)** | `React`, `REST APIs`, `BS5` | **API Integration:** Dynamic data visualization using real-time external providers. |
-| **[Multilingual UI](https://github.com/sanjeev662/MultilingualUI_Assignment)** | `React`, `i18next` | **Localization:** Seamless i18n implementation for global user accessibility. |
-
-
-<!-- <hr> -->
-
-<!-- <h3 align="left">Most used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev662&show_icons=true&locale=en&layout=compact" alt="sanjeev662" /></p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev662&" alt="sanjeev662" /></p> -->
-    
-    
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeev662" alt="sanjeev662" /></a> </p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%"/>
