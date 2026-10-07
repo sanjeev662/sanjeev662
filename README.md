@@ -102,7 +102,6 @@
       <img src="https://img.shields.io/badge/Azure-1e293b?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjI0IDMwIDIwOCAxOTYiPjxwYXRoIGZpbGw9IiMzQjlCRUUiIGQ9Ik05NC42NyAzNEgxNTMuODZMOTIuNDIgMjE2LjAzQzkxLjc5IDIxNy45IDkwLjU5IDIxOS41MyA4OC45OCAyMjAuNjhDODcuMzggMjIxLjgzIDg1LjQ1IDIyMi40NSA4My40OCAyMjIuNDVIMzcuNDJDMzUuOTMgMjIyLjQ1IDM0LjQ1IDIyMi4xIDMzLjEyIDIyMS40MUMzMS43OSAyMjAuNzMgMzAuNjQgMjE5Ljc0IDI5Ljc3IDIxOC41M0MyOC45IDIxNy4zMSAyOC4zMyAyMTUuOTEgMjguMSAyMTQuNDNDMjcuODggMjEyLjk1IDI4LjAyIDIxMS40NCAyOC40OSAyMTAuMDJMODUuNzMgNDAuNDJDODYuMzYgMzguNTUgODcuNTcgMzYuOTIgODkuMTcgMzUuNzdDOTAuNzcgMzQuNjIgOTIuNyAzNCA5NC42NyAzNFoiLz48cGF0aCBmaWxsPSIjMDA3OEQ0IiBkPSJNMTgwLjY3IDE1Ni4xSDg2LjgzQzg1Ljk1IDE1Ni4wOSA4NS4xIDE1Ni4zNiA4NC4zOCAxNTYuODVDODMuNjYgMTU3LjM0IDgzLjEgMTU4LjAzIDgyLjc4IDE1OC44NUM4Mi40NiAxNTkuNjYgODIuMzkgMTYwLjU1IDgyLjU4IDE2MS40QzgyLjc4IDE2Mi4yNSA4My4yMiAxNjMuMDIgODMuODYgMTYzLjYyTDE0NC4xNyAyMTkuOUMxNDUuOTIgMjIxLjU0IDE0OC4yMyAyMjIuNDUgMTUwLjYzIDIyMi40NUgyMDMuNzdMMTgwLjY3IDE1Ni4xWiIvPjxwYXRoIGZpbGw9IiM1RUM0RjciIGQ9Ik0xNzAuMjYgNDAuNDFDMTY5LjYzIDM4LjU0IDE2OC40MyAzNi45MiAxNjYuODMgMzUuNzdDMTY1LjIzIDM0LjYyIDE2My4zMSAzNCAxNjEuMzQgMzRIOTUuMzhDOTcuMzUgMzQgOTkuMjcgMzQuNjIgMTAwLjg3IDM1Ljc3QzEwMi40OCAzNi45MiAxMDMuNjggMzguNTQgMTA0LjMxIDQwLjQxTDE2MS41NSAyMTAuMDJDMTYyLjAzIDIxMS40MyAxNjIuMTYgMjEyLjk0IDE2MS45NCAyMTQuNDJDMTYxLjcyIDIxNS45IDE2MS4xNSAyMTcuMzEgMTYwLjI4IDIxOC41M0MxNTkuNCAyMTkuNzQgMTU4LjI1IDIyMC43MyAxNTYuOTIgMjIxLjQxQzE1NS41OSAyMjIuMSAxNTQuMTIgMjIyLjQ1IDE1Mi42MiAyMjIuNDVIMjE4LjU4QzIyMC4wOCAyMjIuNDUgMjIxLjU1IDIyMi4xIDIyMi44OCAyMjEuNDFDMjI0LjIxIDIyMC43MyAyMjUuMzYgMjE5Ljc0IDIyNi4yMyAyMTguNTJDMjI3LjExIDIxNy4zMSAyMjcuNjggMjE1LjkgMjI3LjkgMjE0LjQyQzIyOC4xMiAyMTIuOTQgMjI3Ljk4IDIxMS40MyAyMjcuNTEgMjEwLjAyTDE3MC4yNiA0MC40MVoiLz48L3N2Zz4%3D" alt="Azure"/>
       <img src="https://img.shields.io/badge/Hetzner_Cloud-1e293b?style=for-the-badge&logo=hetzner&logoColor=D50C2D" alt="Hetzner Cloud"/>
       <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-      <img src="https://img.shields.io/badge/Linux-1e293b?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
     </td>
   </tr>
   <tr>
@@ -121,18 +120,42 @@
   <img src="assets/timeline-2020.svg" alt="2020: Started B.Tech IT at CSJMU Kanpur"/><img src="assets/timeline-2022.svg" alt="2022: ICPC Regionals, top 10% of 5000+"/><img src="assets/timeline-2023.svg" alt="2023: Backend Intern at Rydeu Logistics"/><img src="assets/timeline-2024.svg" alt="2024: Graduated, joined Namekart as SDE"/><img src="assets/timeline-today.svg" alt="Today: AI agents and data platforms at scale"/>
 </p>
 
-### 🏢&nbsp; Namekart · Software Development Engineer
+### 🏢 Namekart · Software Development Engineer
 <sub>Jul 2024 – Present · Noida</sub><br/>
 I own the company's domain-name platform end to end: **30+ modules** for finding, acquiring, pricing and selling domains. I write and review production code across the stack.
 
-<p align="center">
-  <img src="assets/work-seo.svg" alt="AI SEO Automation: automates SEO consulting end to end, with scheduled reports on Telegram (AI agents, Temporal, microservices)"/>
-  <img src="assets/work-assistant.svg" alt="AI Data Assistant: plain-English questions over platform data, scoped by role; 50% less manual analysis (LLM, RAG)"/>
-  <img src="assets/work-domain.svg" alt="Domain Intelligence: imports 280K records a day into partitioned PostgreSQL and searches 4M records in 15–30 ms (Spring Boot)"/>
-  <img src="assets/work-hr.svg" alt="HR Portal: attendance, leave, work logs, stipends and location-based check-in; 70% less manual HR work"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <b>🤖&nbsp; AI SEO Automation Platform</b><br/>
+      <sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub><br/>
+      <sub><code>AI&nbsp;agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram&nbsp;bot</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>💬&nbsp; AI Assistant for Platform Data</b><br/>
+      <sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub><br/>
+      <sub><code>LLM</code> <code>RAG</code> <code>Access&nbsp;control</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📈&nbsp; Domain-Intelligence Service</b><br/>
+      <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with streaming CSV export of results.</sub><br/>
+      <sub><code>Spring&nbsp;Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🧑‍💼&nbsp; HR Portal</b><br/>
+      <sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub><br/>
+      <sub><code>Full&nbsp;stack</code> <code>Automation</code> <code>Multi&#8209;city&nbsp;offices</code></sub>
+    </td>
+  </tr>
+</table>
 
-### 🚚&nbsp; Rydeu Logistics · Backend Developer Intern
+### 🚚 Rydeu Logistics · Backend Developer Intern
 <sub>Nov 2023 – Jun 2024 · Remote</sub>
 
 <p align="center">
