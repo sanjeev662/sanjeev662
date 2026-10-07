@@ -43,27 +43,55 @@
 <table align="center">
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,ts,js" height="40" alt="Java, TypeScript, JavaScript"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"/>
+    </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" height="40" alt="Spring Boot, Node.js, Express, Kafka"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js"/>
+      <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" title="Express"/>
+      <img src="https://skillicons.dev/icons?i=kafka" width="40" alt="Kafka" title="Kafka"/>
+    </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" height="40" alt="React, Next.js, Redux, Tailwind CSS, Material UI"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js"/>
+      <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" title="Redux"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+      <img src="https://skillicons.dev/icons?i=materialui" width="40" alt="Material UI" title="Material UI"/>
+    </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" alt="PostgreSQL, MySQL, MongoDB"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB"/>
+    </td>
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git,linux" height="40" alt="Docker, GitHub Actions, Azure, Git, Linux"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker"/>
+      <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions"/>
+      <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" title="Azure"/>
+      <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" title="Linux"/>
+    </td>
   </tr>
   <tr>
     <td><b>Monitoring</b></td>
-    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" alt="Prometheus, Grafana"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=prometheus" width="40" alt="Prometheus" title="Prometheus"/>
+      <img src="https://skillicons.dev/icons?i=grafana" width="40" alt="Grafana" title="Grafana"/>
+    </td>
   </tr>
   <tr>
     <td><b>Also</b></td>
@@ -93,27 +121,29 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b>🤖 AI SEO Automation Platform</b><br/>
+    <td>
+      <b>🤖&nbsp; AI SEO Automation Platform</b><br/>
       <sub>Automates the whole SEO consulting process: site audits, keyword research, content briefs and rank tracking. Clients get scheduled reports on Telegram, and failed steps retry on their own.</sub><br/>
       <sub><code>AI agents</code> <code>Temporal</code> <code>Microservices</code> <code>Telegram bot</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <b>💬 AI Assistant for Business Data</b><br/>
+  </tr>
+  <tr>
+    <td>
+      <b>💬&nbsp; AI Assistant for Business Data</b><br/>
       <sub>Teams ask questions in plain English and get instant reports from platform data, limited to what their role allows. <b>Cut manual analysis by 50%.</b></sub><br/>
       <sub><code>LLM</code> <code>RAG</code> <code>Role-based access</code></sub>
     </td>
   </tr>
-</table>
-<table>
   <tr>
-    <td width="50%" valign="top">
-      <b>📈 Domain-Intelligence Service</b><br/>
+    <td>
+      <b>📈&nbsp; Domain-Intelligence Service</b><br/>
       <sub>Imports <b>280K records every day</b> and searches across <b>4M records in 15–30 ms</b>, with one-click CSV export of any result set.</sub><br/>
       <sub><code>Spring Boot</code> <code>PostgreSQL</code> <code>Partitioning</code> <code>Indexing</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <b>🧑‍💼 HR Portal</b><br/>
+  </tr>
+  <tr>
+    <td>
+      <b>🧑‍💼&nbsp; HR Portal</b><br/>
       <sub>Attendance, leave, work logs and stipend calculation in one place, with location-based check-in for offices in several cities. <b>Cut manual HR work by 70%.</b></sub><br/>
       <sub><code>Full-stack</code> <code>Automation</code> <code>Multi-city</code></sub>
     </td>
@@ -136,82 +166,90 @@ I own the company's domain-name platform end to end: **30+ modules** for finding
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <h3>🏠 <a href="https://github.com/sanjeev662/ToLet-RoomOnRent">ToLet: Room on Rent</a></h3>
-      <p><sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub></p>
+      <sub>Find rooms, flats and hotels to rent. Search on a map, save favourites, book, and chat live with the owner, who can list and manage their properties.</sub>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io"/>
         <img src="https://img.shields.io/badge/Google_Maps-1e293b?style=flat-square&logo=googlemaps&logoColor=4285F4" alt="Google Maps"/>
+        &nbsp;·&nbsp;
+        <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+        <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://to-let-room-on-rent.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/ToLet-RoomOnRent"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>🎟️ <a href="https://github.com/sanjeev662/events-booking-system">Event Ticketing</a></h3>
-      <p><sub>Ticket booking for a real event. People register, pay online and instantly get a QR-code PDF ticket, and organisers get an admin panel with Excel export.</sub></p>
+      <sub>Ticket booking for a real event. People register, pay online and instantly get a QR-code PDF ticket, and organisers get an admin panel with Excel export.</sub>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white" alt="Express"/>
         <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Razorpay-1e293b?style=flat-square&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://github.com/sanjeev662/events-booking-system"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
   </tr>
-</table>
-<table>
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <h3>🤖 <a href="https://github.com/sanjeev662/job-scrapper">Job Scrapper Agent</a></h3>
-      <p><sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub></p>
+      <sub>Finds fresh LinkedIn jobs on a schedule, uses Gemini AI to match them against my resume and emails me a shortlist. Built-in limits keep it safe and low-frequency.</sub>
       <p>
         <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Playwright-1e293b?style=flat-square" alt="Playwright"/>
         <img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
         <img src="https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://github.com/sanjeev662/job-scrapper"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>🛂 <a href="https://github.com/sanjeev662/visitor-management-system-react">Visitor Management</a></h3>
-      <p><sub>Front-desk system for offices: register visitors with a photo, print RFID passes and track visits on dashboards, with separate access for admins, receptionists and guards.</sub></p>
+      <sub>Front-desk system for offices: register visitors with a photo, print RFID passes and track visits on dashboards, with separate access for admins, receptionists and guards.</sub>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Material_UI-1e293b?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI"/>
         <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
+        <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
       </p>
-      <a href="https://github.com/sanjeev662/visitor-management-system-react"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      <a href="https://github.com/sanjeev662/visitor-management-system-nextjs"><img src="https://img.shields.io/badge/Next.js_version-24292f?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js version"/></a>
-      <img src="https://img.shields.io/github/stars/sanjeev662/visitor-management-system-react?style=flat-square&logo=github&label=stars&color=e3b341" alt="GitHub stars"/>
     </td>
   </tr>
-</table>
-<table>
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <h3>💌 <a href="https://github.com/sanjeev662/wedding-invitation">Wedding Invitation</a></h3>
-      <p><sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub></p>
+      <sub>An animated digital wedding invite. Guests swipe through ceremony cards, see a live countdown and the venue map, and get rich link previews when it's shared.</sub>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
         <img src="https://img.shields.io/badge/Framer_Motion-1e293b?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+        &nbsp;·&nbsp;
+        <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+        <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://wedding-invitation-annu-aman.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/wedding-invitation"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>📖 <a href="https://github.com/sanjeev662/flipbook-app">PDF Flipbook</a></h3>
-      <p><sub>Turns any PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub></p>
+      <sub>Turns any PDF into a realistic page-turning book in the browser. It loads instantly, works on mobile, and every page has its own shareable link.</sub>
       <p>
         <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Vite-1e293b?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
         <img src="https://img.shields.io/badge/StPageFlip-1e293b?style=flat-square" alt="StPageFlip"/>
+        &nbsp;·&nbsp;
+        <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+        <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://flipbook-app-lac.vercel.app"><img src="https://img.shields.io/badge/Live-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-      <a href="https://github.com/sanjeev662/flipbook-app"><img src="https://img.shields.io/badge/Code-24292f?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
     </td>
   </tr>
 </table>
